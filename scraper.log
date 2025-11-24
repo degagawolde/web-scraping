@@ -1,0 +1,1845 @@
+2025-11-24 09:11:55,144 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:11:55,144 INFO: Starting search for decisions on 2025-11-23
+2025-11-24 09:11:55,148 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:11:55,209 DEBUG: Incremented Retry for (url='/sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=11'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2025-11-24 09:11:55,210 WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x105f692b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=11
+2025-11-24 09:11:55,210 DEBUG: Starting new HTTPS connection (2): supreme.court.gov.il:443
+2025-11-24 09:11:55,250 DEBUG: Incremented Retry for (url='/sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=11'): Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-11-24 09:11:57,256 WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x105f7e710>: Failed to establish a new connection: [Errno 61] Connection refused')': /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=11
+2025-11-24 09:11:57,256 DEBUG: Starting new HTTPS connection (3): supreme.court.gov.il:443
+2025-11-24 09:11:57,298 DEBUG: Incremented Retry for (url='/sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=11'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2025-11-24 09:12:01,304 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x105f7e850>: Failed to establish a new connection: [Errno 61] Connection refused')': /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=11
+2025-11-24 09:12:01,305 DEBUG: Starting new HTTPS connection (4): supreme.court.gov.il:443
+2025-11-24 09:12:02,672 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=11 HTTP/1.1" 200 121514
+2025-11-24 09:12:04,042 INFO: Search request successful
+2025-11-24 09:12:04,063 WARNING: No search results found; verify selector
+2025-11-24 09:18:12,635 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:18:12,635 INFO: Starting search for decisions on 2025-11-23
+2025-11-24 09:18:12,640 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:18:13,935 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=11 HTTP/1.1" 200 121514
+2025-11-24 09:18:15,172 INFO: Search request successful
+2025-11-24 09:18:15,173 DEBUG: Response snippet: 
+                
+
+
+
+
+<!DOCTYPE HTML>
+<html dir="ltr" lang="en-US">
+
+
+    <head><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta charset="utf-8" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+        <!-- ===== STARTER: Robots  ======================================================================================================= -->
+        
+
+        <!-- ===== STARTER: Favicon / Windows Tile ======================================================================================== -->
+        
+        
+
+        <!-- ===== STARTER: Page Title loaded from page or page layout ==================================================================== -->
+        
+        <title>
+	
+    Search Judgmen
+2025-11-24 09:26:10,408 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:26:10,409 INFO: Starting search for decisions on 2025-11-23
+2025-11-24 09:26:10,413 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:26:12,063 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=11 HTTP/1.1" 200 121514
+2025-11-24 09:26:13,342 INFO: Search request successful
+2025-11-24 09:26:13,371 WARNING: No search results found; verify selector
+2025-11-24 09:26:56,200 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:26:56,200 INFO: Starting search for decisions on 2025-02-23
+2025-11-24 09:26:56,204 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:26:57,534 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121511
+2025-11-24 09:26:58,497 INFO: Search request successful
+2025-11-24 09:26:58,519 WARNING: No search results found; verify selector
+2025-11-24 09:32:22,618 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:32:22,619 INFO: Starting search for decisions on 2025-02-23
+2025-11-24 09:32:22,623 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:32:23,913 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121511
+2025-11-24 09:32:26,613 INFO: Search request successful
+2025-11-24 09:32:26,613 DEBUG: resp.text
+2025-11-24 09:32:26,641 WARNING: No search results found; verify selector
+2025-11-24 09:33:50,038 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:33:50,038 INFO: Starting search for decisions on 2025-02-23
+2025-11-24 09:33:50,042 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:33:51,442 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121511
+2025-11-24 09:33:52,401 INFO: Search request successful
+2025-11-24 09:33:52,402 DEBUG: Response snippet: 
+                
+
+
+
+
+<!DOCTYPE HTML>
+<html dir="ltr" lang="en-US">
+
+
+    <head><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta charset="utf-8" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+        <!-- ===== STARTER: Robots  ======================================================================================================= -->
+        
+
+        <!-- ===== STARTER: Favicon / Windows Tile ======================================================================================== -->
+        
+        
+
+        <!-- ===== STARTER: Page Title loaded from page or page layout ==================================================================== -->
+        
+        <title>
+	
+    Search Judgments
+
+
+</title><link rel="shortcut icon" href="/_layouts/15/Elad.SPS.SupremeCourt/images/favicon.ico?rev=40" type="image/vnd.microsoft.icon" id="favicon" />
+
+        <!-- ===== STARTER: SP Scripts and CSS  =========================================================================================== -->
+        <link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=VY%2BwyEmZ4VeBNMq6%2BgwRaA%3D%3DTAG0"/>
+<link id="CssRegistration5" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Assistant:200,300,400,600&amp;subset=hebrew"/>
+<link id="CssRegistration3" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/calendar/clndr.css?rev=Sc0Dyr6WtIuQIly979PcNQ%3D%3DTAG0"/>
+<link id="CssRegistration1" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/slick.css?rev=PrNLDpnxA0dwdm%2BL7w9IZA%3D%3DTAG0"/>
+<link id="CssRegistration8" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/slick-theme.css?rev=1sj2k7Hbyl8sWeKpf8tqWw%3D%3DTAG0"/>
+<link id="CssRegistration2" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/bootstrap.min.css?rev=oRJDM3Iam8a4hlpoRyp9vA%3D%3DTAG0"/>
+<link id="CssRegistration10" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/bootstrap-datepicker3.css?rev=OilsfWStEkNA78RYyuLoAw%3D%3DTAG0"/>
+<link id="CssRegistration12" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/font-awesome.min.css?rev=oOeExMqUwnGwM437AgVb5g%3D%3DTAG0"/>
+<link id="CssRegistration4" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/style.css?rev=k9ybbp%2B2wZkuYj9IXPnLCQ%3D%3DTAG0"/>
+<link id="CssRegistration7" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/SupremeCourt.css?rev=wOD0AaodhHXLo9STQExfbg%3D%3DTAG0"/>
+<link id="CssRegistration6" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/responsive.css?rev=eIUB8gmheTQJx%2F92ACKZZg%3D%3DTAG0"/>
+<link id="CssRegistration9" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/ltr.css?rev=zulGBwcEnguUl5lvB0hLTw%3D%3DTAG0"/>
+<link id="CssRegistration11" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/../../Elad.SPS.SupremeCourt/styles/english.css?rev=V9ZXyiJmVcEIoYWQxoPrkQ%3D%3DTAG0"/>
+<script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=2WxjgxyM2qXGgY9r2nHW8A%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=3ASjWtWq6E1ICNOzAh1Exw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/1033/strings.js?rev=k%2FSaOdWtcHDDvsb%2FUFykOA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/jquery-3.6.4.min.js?rev=ZB3RQ3AQbpktNSFm9aB%2BmQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/knockout-3.4.0.js?rev=Hi2gIh0z7rSXKtGy1wtc8w%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/knockout-sortable.js?rev=XsRMXA8DFjau5DOXhAHCAA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/bootstrap.min.js?rev=BMhIUumTexQqxzwoW4lbhQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/bootstrap-datepicker.js?rev=Dd%2FVA2OHI0rQQzNrtEzwwg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/bootstrap-datepicker.he.min.js?rev=fjbKiXYmEaD6wdjT0DtCNQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/newsticker.js?rev=PmI%2F%2Bg%2FyXIS8NGwdWVIR9g%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/script.js?rev=2ySe5DCtfL4uzUuSjUIx8g%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/en-script.js?rev=hEJMU5wOcRp%2BJQ%2FWsgDbJg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/jssor.slider-25.0.7.min.js?rev=jVrkTyA9BEuS0E7rFphZqg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/supremecourt.js?rev=USu4oFK75zu4SM8tp5Xb%2Bw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/imagerenditionhandler.js?rev=Ebqt3oRU2BuR9qgVwJgR%2Bg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/moment.js?rev=blqmeD777%2FWE9CkjmDJrMg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/slick.js?rev=sgc%2BnXKa6%2BAkuusFajixmw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/calendar/underscore-min.js?rev=PXRfroC4A8VF92WguVRaCA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/calendar/moment-with-locales.js?rev=BKr91rF3gQg3MSGggtYuyw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/calendar/clndr.js?rev=8LrFslP2EdTgbdj2Yc9wrw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/elad.sps.supremecourt/scripts/calendar/spcal-settings-en.js?rev=BTQ6uHo9wDE6GKf04grRTA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/ie55up.js?rev=9lbi67UjaA4PxVbrJfXtsw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/sites/en/_layouts/15/elad.sharepoint.spa.upgrade/scripts/knockout.js"></script>
+<script type="text/javascript" src="/sites/en/_layouts/15/elad.sharepoint.spa.upgrade/scripts/knockout.mappings.js"></script>
+<script type="text/javascript" src="/sites/en/_layouts/15/elad.sharepoint.spa.upgrade/scripts/ko.pager.js"></script>
+<script type="text/javascript" src="/sites/en/_layouts/15/elad.sharepoint.spa.upgrade/scripts/spascripts.js"></script>
+<script type="text/javascript" src="/sites/en/_layouts/15/elad.sharepoint.spa.upgrade/scripts/listsprovider.js"></script>
+<script type="text/javascript" src="/sites/en/_layouts/15/elad.sharepoint.spa.upgrade/scripts/searchprovider.js"></script>
+<script type="text/javascript" src="/sites/en/_layouts/15/elad.sharepoint.spa.upgrade/scripts/pageprovider.js"></script>
+<script type="text/javascript" src="/sites/en/_layouts/15/elad.sharepoint.spa.upgrade/scripts/knockout-sortable.js"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=F8jMQHiILhdIpHnT2NaoY-3f0Y3ILySzgM-u-DuKSX3W6Ct2ADZzGCu6Ngh5z6wxS2HRfCAhDE5prmbtHXI3mgtM0LuBOf63CsuS9kwE6JCu6Hlc_ZqlqmfxszCwJ2trUSgLTjZhtJ4Q6iEzXqcDzS9Ff-oPpLa_dU23PP0gHIpbtI765_FXAxLTevatKsB50&amp;t=ffffffffc820c398"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=SqbFwHLKcQz2MWOJLAZKSg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=fktW3FVTBjqAAaxofnGmqP9cYHcjrazUFLXRwzY3CdK-exIY6rN5mozvhWkMYAJLGsjshyFgh2EmDfCdNKyZCCxkcfz6fpYpkA0WfUyj5otcC4SMYGYB22R7AuNE6C0Rq_Zm12rliyzknwZ6Tl51Hb33X_6bulI_KKqRqQfTiQYC7AVYUcbLSO8r4Tle17mp0&amp;t=ffffffffc820c398"></script>
+<script type="text/javascript" src="/_layouts/15/sp.init.js?rev=jomr4Q2pIYRTkyUWih%2Fl4g%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/clientrenderer.js?rev=qYLkl%2FJoHydBZNrbAekzeg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/1033/srch.resources.js?rev=YFZFsHKXct9hchZcv%2BUURA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/search.clientcontrols.js?rev=llkkoa8WzW2Akde91RvLUw%3D%3DTAG0"></script>
+<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=4UhLIF\u00252FezOvmGnh\u00252Fs0LLpA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f1033\u002fsp.res.js?rev=wAoMiKx7gNtLcYzRgm0ujg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=FsEPriaszuey\u00252F97miQQi\u00252BQ\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=Ijvm7zQkiPUQ7UaBF4IMhQ\u00253D\u00253DTAG0");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=JOjHVD2aknqh8MY91Hwxdg\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=L0Jz2vSwqB4eHw4lj\u00252Fk21Q\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=C\u00252BGnSBU11\u00252B7AH\u00252Fm47RvWtg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=PhhiVM1vHyVxNi\u00252Fo2p6zUw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=xZhaMXeIftOXqW7S1FECcw\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=ky\u00252BKsDleCqws7KQXT7Auzw\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=rOQ6BB3MRYLQ0lYu3evxKg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=jq4VXe5\u00252Bmb7g94\u00252FdzOUyFg\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=CotHs4UbOBqk7viFjPqmKg\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.search.js", "\u002f_layouts\u002f15\u002fsp.search.js?rev=HAx1PXh3dmISREk3Xv5ClQ\u00253D\u00253DTAG0");RegisterSodDep("sp.search.js", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("ajaxtoolkit.js", "\u002f_layouts\u002f15\u002fajaxtoolkit.js?rev=D\u00252BopWJT1QLPe7G8RdEG71A\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=cx6U8sP\u00252ByP0OFLjk6ekyIg\u00253D\u00253DTAG0");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=QkiVjDzsmt60O14bCLjgTw\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=2xfQ84pvasOq9N7GqdIIjw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=aQpSucSUQDH4Xu\u00252BM0Z0egQ\u00253D\u00253DTAG0");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
+<link type="text/xml" rel="alternate" href="/sites/en/_vti_bin/spsdisco.aspx" />
+
+        <!-- ===== STARTER: Additional header placeholder - overridden by asp:content on pages or page layouts  =========================== -->
+        
+<link rel="canonical" href="http://supreme.court.gov.il:80/sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&amp;CaseNumber=null&amp;DateType=1&amp;SearchPeriod=8&amp;COpenDate=null&amp;CEndDate=null&amp;freeText=null&amp;Importance=null&amp;CaseMonth=2" />
+
+        <!-- ===== STARTER: Core SharePoint CSS =========================================================================================== -->
+        
+
+        <!-- ===== STARTER: Custom CSS  =================================================================================================== -->
+        
+        
+
+        
+
+
+        <script src="/_layouts/15/SP.Runtime.js" type="text/javascript"></script>
+        <script src="/_layouts/15/SP.js" type="text/javascript"></script>
+        <script src="/_layouts/15/SP.publishing.js" type="text/javascript"></script>
+        <script src="/_layouts/15/SP.UI.Dialog.js" type="text/javascript"></script>
+
+        
+
+        
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123491789-1"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+  gtag('config', 'UA-123491789-1');
+
+</script>
+
+    </head>
+
+    <body class="MasterPageTemplate Master-ltr">
+        
+ 
+        <!-- ===== STARTER: SP IDs / Prefetch SP images / SP Form  =========================================================================== -->
+        
+        
+        
+        <form method="post" action="./SearchJudgments.aspx?OpenYearDate=2025&amp;CaseNumber=null&amp;DateType=1&amp;SearchPeriod=8&amp;COpenDate=null&amp;CEndDate=null&amp;freeText=null&amp;Importance=null&amp;CaseMonth=2" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="noDigest" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk1MjQ1NjI0NQ9kFgJmD2QWAgIBD2QWBAIBD2QWBAIKD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAhkPZBYCZg9kFgJmDzwrAAYAZAIHD2QWBgIBD2QWAgUmZ18yOGQ0ZGU0OF9mYTYwXzQxMjBfYTUxOV81NTMwNDZmOTBhODUPDxYCHgpDaHJvbWVUeXBlAgJkZAIFD2QWAgICD2QWAgIBD2QWAgIDDxYCHgdWaXNpYmxlaBYCZg9kFgQCAw9kFgYCAQ8WAh8CaGQCAw8WAh8CaGQCBQ8WAh8CaGQCBA8PFgIeCUFjY2Vzc0tleQUBL2RkAhMPZBYCAggPZBYCAgEPZBYCAgEPPCsABQEADxYCHhVQYXJlbnRMZXZlbHNEaXNwbGF5ZWRmZGRk4Q7djCBHwZHhe6FTKJbjAVaf8uNMnDzy2Hq/V8VRX48=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=yA51KcKZG7GyofjgUBIRlI40YtjDLwEQWpF-2zg5qwlsR3LxKA4OILQsThlG7ZSkqmAgTme3sAdsEPtAJEFzFLcJ5S_AuRy3g8J4As368yA1&amp;t=638568712745067788" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = 'e66bdca1-c0e1-d079-0433-61c5f8be0f82';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fsites\u002fen", webAbsoluteUrl: "http:\u002f\u002fsupreme.court.gov.il\u002fsites\u002fen", siteAbsoluteUrl: "http:\u002f\u002fsupreme.court.gov.il\u002fsites\u002fen", serverRequestPath: "\u002fsites\u002fen\u002fPages\u002fSearchJudgments.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "HomePage", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2025-11-24T06:33:51.4194423Z") - new Date(), updateFormDigestPageLoaded: new Date("2025-11-24T06:33:51.4194423Z"), siteClientTag: "2483$$16.0.5508.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{6137f4d4-3a7f-48ea-9cf8-bb5c613aaed0}",pageItemId:4, pagePersonalizationScope:1, alertsEnabled:false, siteServerRelativeUrl: "\u002fsites\u002fen", allowSilverlightPrompt:'True', isSiteAdmin: false};var L_Menu_BaseUrl="/sites/en";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="null";
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var LangList = {"siteSubTitle":"The State of Israel, The Judicial Authority","siteTitle":"Supreme Court","TypeText":"Type text","OpenYear":"Year","TypeCaseNum":"Case Number","SelectDateOption":"Date of Judgments;The date of opening the proceedings","SchoolYearOptions":"Today;last week;last month;last 3 months;last 6 months;last 12 months;All;Custom Time Frame","formDate":"From Date","untillDate":"Until Date","ImportanceOptions":"All;Materiality;technicality","ClearFields":"Clear Fields","Search":"Search","SearchDiscussions":"Search Hearings","Date":"Date","months":"January, February, March, April, May, June, July, August, September, October, November, December","Letters":"A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z","Search Judges":"Look for a judge ...","PleaseFillThisField":"Mandatory Field","eldHour":"Hour","SearchThisSite":"Search this Site","about The Museum":"About the Museum","Signature":"© Supreme Court 2017","AllSchoolYear":"Anytime;Anytime","Clear":"נקה","Decisions":"Display landmark decisions and judgements from","DayDecisions":"Today","WeekDecisions":"Past Week","OpenYearOption":"Year","ByDateTitle":"By date and panel type","SelectConsecutiveDates":"Please Select Consecutive Dates","CompositionTitle":"Panel Type","CompositionOptions":"All Panels;Single Justice;Standard Panel (three justices);Extended Panel;Standard and Extended Panels","ByCaseTitle":"By case number","CaseNum":"Case Number","TooltipForCalendarmonth":"Monthly view","MonthNum":"Month;1;2;3;4;5;6;7;8;9;10;11;12","OldOption":"Old","NewOption":"New","OpenMonth":"Month"};var ConfigList = {"לפי פתיחת הליך":"https://supremedecisions.court.gov.il/Verdicts/CaseDtResults/2","תאריך החלטות/ פסקי דין":"https://supremedecisions.court.gov.il/Verdicts/Results/2","חיפוש מתקדם":"https://supremedecisions.court.gov.il/Verdicts/Search/2","רשימה מלאה של הליכים נבחרים":"https://supremedecisions.court.gov.il/Verdicts/CaseDtResults/2/true","הליכים נבחרים":"https://supremedecisions.court.gov.il/data/HomePage/GetSelectedCases?lang=2","פסקי דין נבחרים":"https://supremedecisions.court.gov.il/data/HomePage/GetSelectedJudjment?Lang=2","רשימה מלאה של פסקי דין נבחרים":"https://supremedecisions.court.gov.il/Verdicts/Results/2/true","להליך המלא":"https://supremedecisions.court.gov.il/Verdicts/CaseResults/2","דף הליך המלא":"/sites/en/Pages/FullCase.aspx","דף חיפוש מתקדם":"/sites/en/Pages/fullsearch.aspx","דף תאריך החלטות/ פסקי דין":"/sites/en/Pages/SearchJudgments.aspx","דף לפי פתיחת הליך":"/sites/en/Pages/bydate.aspx","לוגו ניווט עליון":"/SiteCollectionImages/logo-israel.png","פתיחת יומן דיונים":"https://supremedecisions.court.gov.il/AspxPages/Discussions.aspx?","דיון לפי תאריך":"https://supremedecisions.court.gov.il/AspxPages/Discussions.aspx?","לוגו פוטר":"/SiteCollectionImages/logo-israel-footer.png","סרויס איתור דיונים":"External.aspx/","דיון לפי פרטים":"https://supremedecisions.court.gov.il/AspxPages/Discussions.aspx?","כתובת קובץ ארועי עבר":"C:\\Diary\\dates_with_forums_past.json","כתובת קובץ ארועי עתיד":"C:\\Diary\\dates_with_forums_future.json","PLPictureUrl":"//","MuseumGalleryWPURL":"/museum/Pages/ImagesGalleryPage.aspx","דף הבית":"/sites/en/Pages/home.aspx","דף חיפוש":"Search%20Results.aspx","IsDebugMode":"false"};var imageRenditionsJSON = [{"Name":"Display Template Picture 3 Lines","Group":null,"Id":1,"Width":100,"Height":100,"Version":1,"IsValid":true},{"Name":"Display Template Picture On Top","Group":null,"Id":2,"Width":304,"Height":100,"Version":1,"IsValid":true},{"Name":"Display Template Large Picture","Group":null,"Id":3,"Width":468,"Height":220,"Version":1,"IsValid":true},{"Name":"Display Template Video","Group":null,"Id":4,"Width":120,"Height":68,"Version":1,"IsValid":true},{"Name":"informationCubes_lg","Group":null,"Id":9,"Width":1200,"Height":340,"Version":1,"IsValid":true},{"Name":"informationCubes_md","Group":null,"Id":10,"Width":1199,"Height":382,"Version":1,"IsValid":true},{"Name":"informationCubes_sm","Group":null,"Id":11,"Width":991,"Height":548,"Version":1,"IsValid":true},{"Name":"informationCubes_xs","Group":null,"Id":12,"Width":767,"Height":580,"Version":1,"IsValid":true},{"Name":"JudgeImg_lg","Group":null,"Id":13,"Width":166,"Height":240,"Version":1,"IsValid":true},{"Name":"JudgeImg_md","Group":null,"Id":14,"Width":166,"Height":240,"Version":1,"IsValid":true},{"Name":"JudgeImg_sm","Group":null,"Id":15,"Width":166,"Height":240,"Version":1,"IsValid":true},{"Name":"JudgeImg_xs","Group":null,"Id":16,"Width":166,"Height":240,"Version":1,"IsValid":true},{"Name":"PictureAbout_lg","Group":null,"Id":17,"Width":750,"Height":421,"Version":1,"IsValid":true},{"Name":"PictureAbout_md","Group":null,"Id":18,"Width":750,"Height":421,"Version":1,"IsValid":true},{"Name":"PictureAbout_sm","Group":null,"Id":19,"Width":750,"Height":421,"Version":1,"IsValid":true},{"Name":"PictureAbout_xs","Group":null,"Id":20,"Width":750,"Height":421,"Version":1,"IsValid":true},{"Name":"MuseumBannerAbout_lg","Group":null,"Id":21,"Width":1903,"Height":910,"Version":1,"IsValid":true},{"Name":"MuseumBannerAbout_md","Group":null,"Id":22,"Width":1199,"Height":910,"Version":1,"IsValid":true},{"Name":"MuseumBannerAbout_sm","Group":null,"Id":23,"Width":991,"Height":910,"Version":1,"IsValid":true},{"Name":"MuseumBannerAbout_xs","Group":null,"Id":24,"Width":767,"Height":800,"Version":1,"IsValid":true},{"Name":"MuseumGalleryImage_lg","Group":null,"Id":25,"Width":460,"Height":258,"Version":1,"IsValid":true},{"Name":"MuseumGalleryImage_md","Group":null,"Id":26,"Width":460,"Height":258,"Version":1,"IsValid":true},{"Name":"MuseumGalleryImage_sm","Group":null,"Id":27,"Width":460,"Height":258,"Version":1,"IsValid":true},{"Name":"MuseumGalleryImage_xs","Group":null,"Id":28,"Width":460,"Height":258,"Version":1,"IsValid":true},{"Name":"MuseumGalleryPopUpImage_lg","Group":null,"Id":29,"Width":1200,"Height":675,"Version":1,"IsValid":true},{"Name":"MuseumGalleryPopUpImage_md","Group":null,"Id":30,"Width":1200,"Height":675,"Version":1,"IsValid":true},{"Name":"MuseumGalleryPopUpImage_sm","Group":null,"Id":31,"Width":1200,"Height":675,"Version":1,"IsValid":true},{"Name":"MuseumGalleryPopUpImage_xs","Group":null,"Id":32,"Width":1200,"Height":675,"Version":1,"IsValid":true},{"Name":"MuseumFolderImage_lg","Group":null,"Id":33,"Width":500,"Height":526,"Version":1,"IsValid":true},{"Name":"MuseumFolderImage_md","Group":null,"Id":34,"Width":500,"Height":526,"Version":1,"IsValid":true},{"Name":"MuseumFolderImage_sm","Group":null,"Id":35,"Width":500,"Height":526,"Version":1,"IsValid":true},{"Name":"MuseumFolderImage_xs","Group":null,"Id":36,"Width":500,"Height":526,"Version":1,"IsValid":true},{"Name":"VirtualTourImage_lg","Group":null,"Id":37,"Width":520,"Height":335,"Version":1,"IsValid":true},{"Name":"VirtualTourImage_md","Group":null,"Id":38,"Width":520,"Height":335,"Version":1,"IsValid":true},{"Name":"VirtualTourImage_sm","Group":null,"Id":39,"Width":520,"Height":335,"Version":1,"IsValid":true},{"Name":"VirtualTourImage_xs","Group":null,"Id":40,"Width":520,"Height":335,"Version":1,"IsValid":true},{"Name":"VirtualTourMapImage_lg","Group":null,"Id":41,"Width":700,"Height":342,"Version":1,"IsValid":true},{"Name":"VirtualTourMapImage_md","Group":null,"Id":42,"Width":700,"Height":342,"Version":1,"IsValid":true},{"Name":"VirtualTourMapImage_sm","Group":null,"Id":43,"Width":700,"Height":342,"Version":1,"IsValid":true},{"Name":"VirtualTourMapImage_xs","Group":null,"Id":44,"Width":700,"Height":342,"Version":1,"IsValid":true},{"Name":"ForFurtherReadingImage_lg","Group":null,"Id":45,"Width":400,"Height":313,"Version":1,"IsValid":true},{"Name":"ForFurtherReadingImage_md","Group":null,"Id":46,"Width":400,"Height":313,"Version":1,"IsValid":true},{"Name":"ForFurtherReadingImage_sm","Group":null,"Id":47,"Width":400,"Height":313,"Version":1,"IsValid":true},{"Name":"ForFurtherReadingImage_xs","Group":null,"Id":48,"Width":400,"Height":313,"Version":1,"IsValid":true},{"Name":"BannerAbout_lg","Group":null,"Id":54,"Width":1920,"Height":563,"Version":1,"IsValid":true},{"Name":"BannerAbout_md","Group":null,"Id":55,"Width":1920,"Height":563,"Version":1,"IsValid":true},{"Name":"BannerAbout_sm","Group":null,"Id":56,"Width":1920,"Height":563,"Version":1,"IsValid":true},{"Name":"BannerAbout_xs","Group":null,"Id":57,"Width":1920,"Height":563,"Version":1,"IsValid":true}];var loadRenditionsSuccessBool = true;var upperLinksJSON = [{"LinkTitle":"עברית","eldUrl_url":"http://supreme.court.gov.il/","eldUrl_description":"עברית","eldOpenUrlNewWindow":false,"eldUnderlinedUrl":false,"eldIsLanguage":false,"eldIsSearch":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/UpperLinksList/2_.000"},{"LinkTitle":"العربية","eldUrl_url":"http://supreme.court.gov.il/sites/ar","eldUrl_description":"ערבית","eldOpenUrlNewWindow":false,"eldUnderlinedUrl":false,"eldIsLanguage":false,"eldIsSearch":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/UpperLinksList/3_.000"},{"LinkTitle":"Search Judgments","eldUrl_url":"http://172.25.40.150/Court/","eldUrl_description":"חיפוש הליכים/פסקי דין","eldOpenUrlNewWindow":true,"eldUnderlinedUrl":true,"eldIsLanguage":false,"eldIsSearch":true,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/UpperLinksList/4_.000"}];var mainNavigationJSON = [{"LinkTitle":"About","eldTitleUrl_url":"http://supreme.court.gov.il/sites/en/Pages/Overview.aspx","eldTitleUrl_description":"About","eldUrlGroup":[{"LinkUrl":"/sites/en/Pages/Overview.aspx","Order":1,"Title":"About the Supreme Court","Description":"About the Supreme Court","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/Welcome_CJ.aspx","Order":2,"Title":"President\u0027s Statement","Description":"President\u0027s Statement","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/GenInfo.aspx","Order":3,"Title":"General Information","Description":"General Information","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/Community.aspx","Order":4,"Title":"Community","Description":"Community","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/Accessibility.aspx","Order":5,"Title":"Accessibility","Description":"Accessibility","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"}],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/1_.000"},{"LinkTitle":"Judgements","eldTitleUrl_url":"https://supreme.court.gov.il/sites/en/Pages/fullsearch.aspx","eldTitleUrl_description":"Judgements","eldUrlGroup":[],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/2_.000"},{"LinkTitle":"Justices","eldTitleUrl_url":"http://supreme.court.gov.il/sites/en/Pages/Justices.aspx","eldTitleUrl_description":"Justices","eldUrlGroup":[],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/4_.000"},{"LinkTitle":"Building/Tours","eldTitleUrl_url":"http://supreme.court.gov.il/sites/en/Pages/Tours.aspx","eldTitleUrl_description":"Building/Tours","eldUrlGroup":[{"LinkUrl":"/sites/en/Pages/Tours.aspx","Order":1,"Title":"Public Affairs Dept","Description":"","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/VirtualTour/Pages/01_mosaic.aspx","Order":2,"Title":"Virtual Tour","Description":"","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/Library.aspx","Order":3,"Title":"Library","Description":"","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"}],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/5_.000"},{"LinkTitle":"Opportunities","eldTitleUrl_url":"http://supreme.court.gov.il/sites/en/Pages/Staffing.aspx","eldTitleUrl_description":"Opportunities","eldUrlGroup":[{"LinkUrl":"/sites/en/Pages/Staffing.aspx","Order":1,"Title":"Foreign Clerkship Opportunities","Description":"Foreign Clerkship Opportunities","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"}],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/6_.000"}];var mainNavigationJSON = [{"LinkTitle":"About","eldTitleUrl_url":"http://supreme.court.gov.il/sites/en/Pages/Overview.aspx","eldTitleUrl_description":"About","eldUrlGroup":[{"LinkUrl":"/sites/en/Pages/Overview.aspx","Order":1,"Title":"About the Supreme Court","Description":"About the Supreme Court","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/Welcome_CJ.aspx","Order":2,"Title":"President\u0027s Statement","Description":"President\u0027s Statement","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/GenInfo.aspx","Order":3,"Title":"General Information","Description":"General Information","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/Community.aspx","Order":4,"Title":"Community","Description":"Community","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/Accessibility.aspx","Order":5,"Title":"Accessibility","Description":"Accessibility","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"}],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/1_.000"},{"LinkTitle":"Judgements","eldTitleUrl_url":"https://supreme.court.gov.il/sites/en/Pages/fullsearch.aspx","eldTitleUrl_description":"Judgements","eldUrlGroup":[],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/2_.000"},{"LinkTitle":"Justices","eldTitleUrl_url":"http://supreme.court.gov.il/sites/en/Pages/Justices.aspx","eldTitleUrl_description":"Justices","eldUrlGroup":[],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/4_.000"},{"LinkTitle":"Building/Tours","eldTitleUrl_url":"http://supreme.court.gov.il/sites/en/Pages/Tours.aspx","eldTitleUrl_description":"Building/Tours","eldUrlGroup":[{"LinkUrl":"/sites/en/Pages/Tours.aspx","Order":1,"Title":"Public Affairs Dept","Description":"","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/VirtualTour/Pages/01_mosaic.aspx","Order":2,"Title":"Virtual Tour","Description":"","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"},{"LinkUrl":"/sites/en/Pages/Library.aspx","Order":3,"Title":"Library","Description":"","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"}],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/5_.000"},{"LinkTitle":"Opportunities","eldTitleUrl_url":"http://supreme.court.gov.il/sites/en/Pages/Staffing.aspx","eldTitleUrl_description":"Opportunities","eldUrlGroup":[{"LinkUrl":"/sites/en/Pages/Staffing.aspx","Order":1,"Title":"Foreign Clerkship Opportunities","Description":"Foreign Clerkship Opportunities","ImageUrl":"","IsGroupHeader":false,"Group":"","OpenInNewWindow":false,"LinkToolTip":"","ImageUrlAltText":"","Style":"Default"}],"eldOpenUrlNewWindow":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/MainNavigationList/6_.000"}];var upperLinksJSON = [{"LinkTitle":"עברית","eldUrl_url":"http://supreme.court.gov.il/","eldUrl_description":"עברית","eldOpenUrlNewWindow":false,"eldUnderlinedUrl":false,"eldIsLanguage":false,"eldIsSearch":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/UpperLinksList/2_.000"},{"LinkTitle":"العربية","eldUrl_url":"http://supreme.court.gov.il/sites/ar","eldUrl_description":"ערבית","eldOpenUrlNewWindow":false,"eldUnderlinedUrl":false,"eldIsLanguage":false,"eldIsSearch":false,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/UpperLinksList/3_.000"},{"LinkTitle":"Search Judgments","eldUrl_url":"http://172.25.40.150/Court/","eldUrl_description":"חיפוש הליכים/פסקי דין","eldOpenUrlNewWindow":true,"eldUnderlinedUrl":true,"eldIsLanguage":false,"eldIsSearch":true,"Item_url":"http://supreme.court.gov.il/sites/en/Lists/UpperLinksList/4_.000"}];var footerJSON = {"Result":"[{\"LinkTitle\":\"About\",\"eldTitleUrl_url\":\"http://supreme.court.gov.il/sites/en/Pages/Overview.aspx\",\"eldTitleUrl_description\":\"About\",\"eldUrlGroup\":[{\"LinkUrl\":\"/Sites/en/Pages/GenInfo.aspx\",\"Order\":1,\"Title\":\"General Information\",\"Description\":\"General Information\",\"ImageUrl\":\"\",\"IsGroupHeader\":false,\"Group\":\"\",\"OpenInNewWindow\":false,\"LinkToolTip\":\"\",\"ImageUrlAltText\":\"\",\"Style\":\"Default\"},{\"LinkUrl\":\"/sites/en/Pages/Accessibility.aspx\",\"Order\":2,\"Title\":\"Accessibility\",\"Description\":\"Accessibility\",\"ImageUrl\":\"\",\"IsGroupHeader\":false,\"Group\":\"\",\"OpenInNewWindow\":false,\"LinkToolTip\":\"\",\"ImageUrlAltText\":\"\",\"Style\":\"Default\"},{\"LinkUrl\":\"/sites/en/Pages/Welcome_CJ.aspx\",\"Order\":3,\"Title\":\"President\\u0027s Statement\",\"Description\":\"President\\u0027s Statement\",\"ImageUrl\":\"\",\"IsGroupHeader\":false,\"Group\":\"\",\"OpenInNewWindow\":false,\"LinkToolTip\":\"\",\"ImageUrlAltText\":\"\",\"Style\":\"Default\"},{\"LinkUrl\":\"/sites/en/Pages/Tours.aspx\",\"Order\":4,\"Title\":\"Department of Public Affairs\",\"Description\":\"Department of Public Affairs\",\"ImageUrl\":\"\",\"IsGroupHeader\":false,\"Group\":\"\",\"OpenInNewWindow\":false,\"LinkToolTip\":\"\",\"ImageUrlAltText\":\"\",\"Style\":\"Default\"},{\"LinkUrl\":\"/sites/en/Pages/Community.aspx\",\"Order\":5,\"Title\":\"Community Outreach\",\"Description\":\"Community Outreach\",\"ImageUrl\":\"\",\"IsGroupHeader\":false,\"Group\":\"\",\"OpenInNewWindow\":false,\"LinkToolTip\":\"\",\"ImageUrlAltText\":\"\",\"Style\":\"Default\"},{\"LinkUrl\":\"/sites/en/Pages/HistoricalBG.aspx\",\"Order\":6,\"Title\":\"Historical Background\",\"Description\":\"Historical Background\",\"ImageUrl\":\"\",\"IsGroupHeader\":false,\"Group\":\"\",\"OpenInNewWindow\":false,\"LinkToolTip\":\"\",\"ImageUrlAltText\":\"\",\"Style\":\"Default\"}],\"eldOpenUrlNewWindow\":false,\"Item_url\":\"http://supreme.court.gov.il/sites/en/Lists/FooterList/1_.000\"}]"};var lowerLinksJSON = {"FirstList_Result":"[{\"LinkTitle\":\"Supreme Court Museum\",\"eldUrl_url\":\"http://supreme.court.gov.il/Museum\",\"eldUrl_description\":\"Supreme Court Museum\",\"eldOpenUrlNewWindow\":false,\"Item_url\":\"http://supreme.court.gov.il/sites/en/Lists/LowerLinksList/1_.000\"},{\"LinkTitle\":\"Terms \\u0026 Conditions\",\"eldUrl_url\":\"http://supreme.court.gov.il/Pages/copyr.aspx\",\"eldUrl_description\":\"Terms \\u0026 Conditions\",\"eldOpenUrlNewWindow\":false,\"Item_url\":\"http://supreme.court.gov.il/sites/en/Lists/LowerLinksList/2_.000\"},{\"LinkTitle\":\"Site Map\",\"eldUrl_url\":\"http://supreme.court.gov.il/sites/en/Pages/SiteMap.aspx\",\"eldUrl_description\":\"Site Map\",\"eldOpenUrlNewWindow\":false,\"Item_url\":\"http://supreme.court.gov.il/sites/en/Lists/LowerLinksList/3_.000\"},{\"LinkTitle\":\"Accessibility Statement\",\"eldUrl_url\":\"http://supreme.court.gov.il/sites/en/Pages/Accessibility.aspx\",\"eldUrl_description\":\"Accessibility Statement\",\"eldOpenUrlNewWindow\":false,\"Item_url\":\"http://supreme.court.gov.il/sites/en/Lists/LowerLinksList/4_.000\"}]","SecondList_Result":"[{\"LinkTitle\":\"Spokesperson Twitter Feed\",\"eldTitleUrl_url\":\"https://twitter.com/IsraelCourts\",\"eldTitleUrl_description\":\"Spokesperson Twitter Feed\",\"eldOpenUrlNewWindow\":true,\"eldpicture\":{\"ImageUrl\":\"/sites/en/SiteCollectionImages/twitter.png\",\"Hyperlink\":\"\",\"OpenHyperlinkInNewWindow\":false,\"Alignment\":\"\",\"AlternateText\":\"\",\"BorderWidth\":0,\"Height\":0,\"HorizontalSpacing\":0,\"VerticalSpacing\":0,\"Width\":0},\"Item_url\":\"http://supreme.court.gov.il/sites/en/Lists/SocialsLinksList/1_.000\"}]"};var searchVerdictsJSON = [{"LinkTitle":"","SearchTitle":"Search Judgments ","SearchDescription":"A Search of Decisions and Judgments Adjudicated by the Supreme Court","eldOpenUrlNewWindow":true,"UrlTitle":"Advanced Search","Item_url":"http://supreme.court.gov.il/sites/en/Lists/SearchVerdictsList/1_.000"}];Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=SqbFwHLKcQz2MWOJLAZKSg%3D%3DTAG0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();var _spRegionalSettings={adjustHijriDays:0,calendarType:1,firstDayOfWeek:0,firstWeekOfYear:0,localeId:1033,currentDateInLocalCalendar: new Date(2025, 10, 24),showWeeks:0,timeZone:'01:59:59.9995736',timeZoneInHours:2,workDayEnd:1020,workDayStart:480,workDays:'0111110',time24:0};Sys.CultureInfo.CurrentCulture = (function(a){return new Sys.CultureInfo(a.name,a.numberFormat,a.dateTimeFormat)})({"dateTimeFormat":{"AMDesignator":"AM","AbbreviatedDayNames":["S","M","T","W","T","F","S"],"AbbreviatedLeapMonthNames":null,"AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"Calendar":{"AlgorithmType":1,"CalendarType":1,"Eras":[1],"IsReadOnly":false,"MaxSupportedDateTime":"\/Date(253402300799999)\/","MinSupportedDateTime":"\/Date(-62135596800000)\/","TwoDigitYearMax":2029},"CalendarWeekRule":0,"DateSeparator":"\/","DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"FirstDayOfWeek":0,"FullDateTimePattern":"dddd, MMMM d, yyyy h:mm:ss tt","IsReadOnly":true,"LeapMonthNames":null,"LongDatePattern":"dddd, MMMM d, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM d","MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"NativeCalendarName":"Gregorian Calendar","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH':'mm':'ss 'GMT'","ShortDatePattern":"M\/d\/yyyy","ShortTimePattern":"h:mm tt","ShortestDayNames":["S","M","T","W","T","F","S"],"SortableDateTimePattern":"yyyy'-'MM'-'dd'T'HH':'mm':'ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy'-'MM'-'dd HH':'mm':'ss'Z'","YearMonthPattern":"MMMM yyyy","eras":[1,"A.D.","AD",0]},"name":"en-US","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","CurrencyGroupSeparator":",","CurrencyGroupSizes":[3],"CurrencyNegativePattern":0,"CurrencyPositivePattern":0,"CurrencySymbol":"$","DigitSubstitution":1,"IsReadOnly":true,"NaNSymbol":"NaN","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","NumberGroupSizes":[3],"NumberNegativePattern":1,"PerMilleSymbol":"‰","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentGroupSizes":[3],"PercentNegativePattern":0,"PercentPositivePattern":0,"PercentSymbol":"%","PositiveInfinitySymbol":"∞","PositiveSign":"+"}});if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002fsites\u002fen', 1440000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0774D975" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABWTrmS3ZsXqNeCBTyMzJP2VirH3WsmF35jUPP/N3W+QpKi1tR/V4px4dwmHrCCUv5xmXKmnYLpO+xeVtGU78VlGY4shBt/Y2zNxjx0urzAPlkWVILGGI6+mTE3KOjCYsOs0YI7ZZqnEJcsKXrSDSYvHGDRpfF8Os+cYgoJFAYKDpaYG+dbgWuNXcQnHadVlYCxf/nWAId+LACUcTJUuNmc+S2TMkOfrchgqazrY4zbj/KLOCPCsci5pDb3KW9HYk1Rmmo0+IdjjeReWP5MZuXHJzvC/J62GobTpiq3BL1C2+6Cai63WGddnpq5gSs5fJZY93sjpvSVvJNc5TMbhJArajw86yVHTYCxF9O5HYKJfLSaox9n5dtzeRSM4vJhTpnUBkIXDNofmeMjpqSwhrWDDheluCEJXRUJRd6c0ubIrD+3WPam7/JY8FGfNRZ3TaiBgm3LnwEWc2dlqj9cxMMG+3qeajQ6KEiTmH8Fsmr7OfQ==" />
+</div>
+
+            <!-- ===== STARTER: SharePoint Reqs this for adding columns ===================================================== -->
+            <script type="text/javascript"> var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
+
+            <!-- ===== STARTER: Web Part Manager  ============================================================================================= -->
+            
+
+            <!-- ===== STARTER: ScriptManager ===================================================== -->
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+            <!-- ===== STARTER: Ribbon Code Starts Here ===================================================== -->
+
+            <!-- ===== STARTER: Ribbon Code Ends Here  ======================================================================================== -->
+
+            <!-- ===== STARTER: Authentication / Login link hidden for everyone by anonymous users  =========================================== -->
+
+
+            <!-- ===== STARTER: Main Scrolling Body Starts Here =============================================================================== -->
+            <div id="s4-workspace">
+                <div>
+
+                    <div class="StripHeader">
+                        <header>
+                            <div id="ribbon">
+                                <div>
+	
+	<div id="s4-ribbonrow" style="visibility:hidden;display:none"></div>
+
+</div>
+
+
+                            </div>
+
+
+                            <style type="text/css">
+										#contentBox { margin-left: 0;  margin-right:0px;min-width: 0px; }
+										#sideNavBox { display: none; }
+									</style>
+
+                            <div class="container">
+                                <div class="row">
+                                    <!--  Title portal  -->
+                                    <a title="בית המשפט העליון" id="linkToHomePage">
+                                        <div class="ColTitlePortal col-md-5">
+                                            <span class="ContainerLogoIsrael"></span>
+                                            <div class="LogoIsraelMobile"></div>
+                                            <div class="ContainerTitlePortal">
+                                                <div class="SubTitle"></div>
+                                                <div class="Title"></div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!--  End Title portal  -->
+                                    <!-- Mobile Login and Search -->
+                                    <div class="ContainerSearch">
+                                        <a class="navbar-toggle collapsed" data-toggle="collapse" href="#navbarMobile" aria-expanded="false" aria-controls="navbar">
+                                            <div class="IconMenuMobile"></div>
+                                        </a>
+                                        <div class="SearchMobile">  <a href="search.aspx"  title="חפש באתר">
+                                            <img src="/_layouts/15/Elad.SPS.SupremeCourt/images/icon-search-mobile.png"></a></div>
+                                    </div>
+                                    <div class="DesktopNav">
+                                        <div class="col-xs-4 col-md-7 col-lg-7 ColLoginAndSearch">
+                                            <div class="InputSearch">
+                                                
+                                                <div class="ms-dialogHidden">
+                                                      
+
+                                                       <div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+	<div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex " OnlyForMePart="true" allowDelete="false" style="" ><div componentid="ctl00_ctl43_csr" id="ctl00_ctl43_csr"></div><noscript><div id="ctl00_ctl43_noscript">It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.</div></noscript><div id="ctl00_ctl43">
+
+	</div><div class="ms-clear"></div></div>
+</div>
+
+                                                   
+                                                </div>
+                                                <a title="חפש באתר" href="javascript:;"><span class="IconSearchPage"></span></a>
+                                            </div>
+                                            <div class="ContainerLogin" id="UpperLinksLinks">
+                                                
+<!--ko foreach:items-->
+
+<!--ko if: (eldIsLanguage==true && LangClass!=GetWebLanguage())||(eldIsLanguage==false)-->
+<a data-bind="attr: { href:eldIsSearch? '#': eldUrl_url, target: eldOpenUrlNewWindow ? '_blank' : '', 'data-toggle': eldIsSearch ? 'modal' : '', 'data-target': eldIsSearch ? '#SearchVerdictsModal' : '' }">
+    <span class="" data-bind="text: LinkTitle, css: eldUnderlinedUrl ? 'UserLine' : 'User'"></span>
+</a>
+<!--/ko-->
+
+<!--/ko-->
+
+<div id="ctl00_UpperLinks_hiddenAreaUpperLinks" class="hiddenErea"><input type="hidden" name="ctl00$UpperLinks$UCUpperLinks_web" id="UCUpperLinks_web" value="http://supreme.court.gov.il/sites/en" /><input type="hidden" name="ctl00$UpperLinks$UCUpperLinks_list" id="UCUpperLinks_list" value="Lists/UpperLinksList" /><input type="hidden" name="ctl00$UpperLinks$UCUpperLinks_view" id="UCUpperLinks_view" value="908fce2c-c2a7-406f-957e-52df18631653" /></div>
+<script>
+    //GetListItemsByCustomHiddenValuesSPA("UCUpperLinks", bindDataToUpperLinksUC);
+    try {
+        $(document).ready(function () {
+            bindDataToUpperLinksUC(upperLinksJSON);
+        });
+  
+
+    } catch (e) {
+
+    }
+</script>
+
+                                            </div>
+
+                                            
+
+<div class="HeaderMenu" id="mainNavigation">
+    <nav>
+        <div id="navbar" class="navbar-collapse collapse">
+
+            <ul class="nav navbar-nav" data-bind="foreach: items">
+                <li class="SubMenu">
+                    <a data-bind="text: LinkTitle, attr: { href: eldTitleUrl_url, title: LinkTitle, target: eldOpenUrlNewWindow ? '_blank' : '' }"></a>
+                    <!--ko if:eldUrlGroup.length >0-->
+                    <div class="SubOpen" id="aboutsub">
+                    <ul data-bind="foreach: eldUrlGroup">
+                        <li><a data-bind="text: Title, attr: { href: LinkUrl, title: Title, target: OpenInNewWindow? '_blank' : '' }"></a></li>
+                    </ul>
+                        </div>
+                    <!--/ko-->
+                </li>
+            </ul>
+
+     
+
+
+        </div>
+    </nav>
+</div>
+
+<div id="ctl00_MainNavigationLinks_hiddenAreaMainNavigation" class="hiddenErea"><input type="hidden" name="ctl00$MainNavigationLinks$UCMainNavigation_web" id="UCMainNavigation_web" value="http://supreme.court.gov.il/sites/en" /><input type="hidden" name="ctl00$MainNavigationLinks$UCMainNavigation_list" id="UCMainNavigation_list" value="Lists/MainNavigationList" /><input type="hidden" name="ctl00$MainNavigationLinks$UCMainNavigation_view" id="UCMainNavigation_view" value="c6b04e68-7498-48cc-878b-d70621763e4c" /></div>
+<script>
+ //   GetListItemsByCustomHiddenValuesSPA("UCMainNavigation", bindDataToMainNavigationUC);
+    try {
+
+    bindDataToMainNavigationUC(mainNavigationJSON)
+    } catch (e) {
+
+    }
+</script>
+
+                                        </div>
+                                        
+                                    </div>
+                                    <div class="MobileNav">
+                                       
+                                            <nav>
+                                                <div id="navbarMobile" class="navbar-collapse collapse" style="height: 1px;">
+                                                    
+  
+ <ul class="nav navbar-nav" id="MainNavigationMobile">
+       <!-- ko foreach: items-->
+                  <li class="SubMenu active">
+                  <a data-toggle="collapse"  class="IconDown" aria-expanded="false" data-bind="attr: { href: '#aboutsub' + $index() }, text: LinkTitle, title: LinkTitle"></a>
+                  <div class="SubOpen collapse" id="aboutsub"  data-bind="attr: {id:'aboutsub'+$index()}" >
+
+                      
+                      
+                      
+                    <ul class="ContentSubMenu">
+                          <!--ko if:eldTitleUrl_url  -->
+                          <li><a data-bind="text: LinkTitle, attr: { href: eldTitleUrl_url, title: LinkTitle }"></a></li>
+                          <!--/ko--> 
+                           <!-- ko foreach: eldUrlGroup-->
+                      <li><a data-bind="text: Title, attr: { href: LinkUrl, title: Title, target: OpenInNewWindow? '_blank' : '' }"></a></li>
+                     <!--/ko--> 
+                    </ul>
+                    </div>
+                  </li>
+                
+                <!--/ko-->                          
+                </ul>
+
+
+                          
+                
+               
+
+
+<div id="ctl00_MobileMainNavigation_hiddenAreaMainNavigationMobile" class="hiddenErea"><input type="hidden" name="ctl00$MobileMainNavigation$UCMainNavigation_web" id="UCMainNavigation_web" value="http://supreme.court.gov.il/sites/en" /><input type="hidden" name="ctl00$MobileMainNavigation$UCMainNavigation_list" id="UCMainNavigation_list" value="Lists/MainNavigationList" /><input type="hidden" name="ctl00$MobileMainNavigation$UCMainNavigation_view" id="UCMainNavigation_view" value="c6b04e68-7498-48cc-878b-d70621763e4c" /></div>
+<script>
+    try {
+        $(document).ready(function () {
+            bindDataToMainNavigationMobileUC(mainNavigationJSON)
+        })
+    
+        
+    } catch (e) {
+
+    }
+    function goToUrl(url)
+    {
+        window.location.href = url;
+    }
+    //goToUrl(eldTitleUrl_url)
+   
+</script>
+
+                                                    
+
+<div class="MobileBottomLinks" id="UpperLinksLinksMobile">
+    <!--ko foreach:items-->
+    <!--ko if: eldIsLanguage == false -->
+    <div class="MobileBottomLinkLine"><a data-bind="text: LinkTitle, attr: { href: eldUrl_url, target: eldOpenUrlNewWindow ? '_blank' : '', 'data-toggle': eldIsSearch ? 'modal' : '', 'data-target': eldIsSearch ? '#SearchVerdictsModal' : '' }">התחבר</a></div>
+    <!--/ko-->
+    <!--/ko-->
+
+    <div class="MobileBottomLinkLine" data-bind="foreach: languages">
+        <!--ko if: eldIsLanguage==true && $index()==0 && LangClass!=GetWebLanguage()-->
+
+
+        <a data-bind="text: LinkTitle, attr: { href: eldUrl_url, target: eldOpenUrlNewWindow ? '_blank' : '' }" class="CurrentLang"></a>
+        <!--/ko-->
+
+        <!--ko if: eldIsLanguage==true && $index()>0 && LangClass!=GetWebLanguage()-->
+        <span class="MarginRight40"><a data-bind="text: LinkTitle, attr: { href: eldUrl_url, target: eldOpenUrlNewWindow ? '_blank' : '' }"></a></span>
+        <!--/ko-->
+    </div>
+</div>
+
+<div id="ctl00_MobileUpperLinks_hiddenAreaUpperLinksMobile" class="hiddenErea"><input type="hidden" name="ctl00$MobileUpperLinks$UCUpperLinks_web" id="UCUpperLinks_web" value="http://supreme.court.gov.il/sites/en" /><input type="hidden" name="ctl00$MobileUpperLinks$UCUpperLinks_list" id="UCUpperLinks_list" value="Lists/UpperLinksList" /><input type="hidden" name="ctl00$MobileUpperLinks$UCUpperLinks_view" id="UCUpperLinks_view" value="908fce2c-c2a7-406f-957e-52df18631653" /></div>
+
+<script>
+    var isFirst = true;
+    $(document).ready(function () {
+        bindDataToUpperLinksMobileUC(upperLinksJSON);
+    })
+    
+    function CheckIfFirst() {
+        if (isFirst == true) {
+            isFirst = false;
+            return true;
+        }
+        else
+            return false;
+
+    }
+
+</script>
+
+                                            </nav>
+                                       
+                                    </div>
+
+
+                                    <div class="col-xs-4 col-md-7 col-lg-7 ColLoginAndSearch">
+                                        <div class="ContainerLogin">
+                                            
+                                            
+
+
+
+
+                                            
+                                        </div>
+
+
+
+                                    </div>
+
+                                    <!--  End Login and Search  -->
+                                </div>
+
+                            </div>
+
+
+                            <!--  Header menu  -->
+
+                            <!--  End Header menu  -->
+                        </header>
+                    </div>
+                </div>
+
+                <div id="s4-bodyContainer">
+
+                    <!-- ===== STARTER: This decides where the web part menu lives ===================================================== -->
+                    <div id="ctl00_DeltaPlaceHolderMain" class="ContentPageTemplate">
+
+
+
+                        <div class="StripTopImg">
+                            <div class="TopImg" id="MainContent"></div>
+                             </div>
+
+                            <!-- ===== STARTER: style.css adds width and margin =========================================================================================== -->
+                            <div class="customWidth">
+
+                               
+
+                                <!-- ===== STARTER: Body Area (includes left nav and body) ==================================================================== -->
+
+                                <!-- ===== STARTER: Current navigation =========================================================================================== -->
+                                <div id="sideNavBox" class="ms-dialogHidden ms-forceWrap ms-noList">
+                                    <div class="ms-core-navigation">
+                                        <!-- ===== STARTER: SP Reqs PlaceHolderLeftNavBar for adding Apps in Site Content =================== -->
+                                        
+                                            
+                                                <!-- ===== STARTER: hide the quick launch for any page the doesn't override the PlaceHolderLeftNavBar ============ -->
+                                                <!-- ===== STARTER: if you want the navigation back you can add it from the collab master ============ -->
+
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                        
+                                    </div>
+                                </div>
+
+                                <!-- ===== STARTER: Main Content ========================================================================================== -->
+                                <div id="contentBox">
+                                    <!-- ===== STARTER: Status bar / also used for notifications in 365 ======================================= -->
+                                    <div id="DeltaPageStatusBar">
+	
+                                        <div id="pageStatusBar"></div>
+                                    
+</div>
+                                     <!-- ===== STARTER: SharePoint looks for this div ID s4-titlerow for the "Focus on Content" Button ======================== -->
+                                <div id="s4-titlerow">
+
+                                    <!-- ===== STARTER: Site Logo with link to root ======================================================================= -->
+                                    
+
+                                    <!-- ===== STARTER: Global navigation ================================================================================= -->
+                                    
+
+                                    <!-- ===== STARTER: Search Control ==================================================================================== -->
+
+
+                                    <!-- ===== STARTER: Breadcrumbs ======================================================================================= -->
+                                    <div class="StripBreadCrumbs">
+                                        <div class="container">
+                                             <span id="ctl00_SiteMapPath" class="Breadcrumbs" SiteMapProviders="SPSiteMapProvider,SPXmlContentMapProvider" HideInteriorRootNodes="true"><span><a title="Home" class="BreadCrumbHome BreadCrumbNode" href="/sites/en/Pages/home.aspx">HomePage</a></span><span>
+                                                                                <span>/</span>
+                                                                            </span><span><a class="CurrentBread BreadCrumbNode" href="/sites/en/Pages/SearchJudgments.aspx">Search Judgments</a></span></span>
+                                        </div>
+                                        <div class="ms-dialogHidden">
+                                             <div class="container" >
+                                            <h1 id="pageTitle" class="ms-core-pageTitle">
+                                                <!-- ===== STARTER: SP Reqs DeltaPlaceHolderPageTitleInTitleArea and PlaceHolderPageTitleInTitleArea for adding Apps in Site Content =================== -->
+                                                <span id="DeltaPlaceHolderPageTitleInTitleArea">
+                                                    
+                                                        <span><a href="#ctl00_PlaceHolderPageTitleInTitleArea_ctl00_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=HSZJMfa4lCMaDAZTCKz48wwaiEytSboGFzRrtiwbvRJdW__LVYF5FbUN9ZmvK4MszQyDUERKTNpvRMdLTS9t_Gd_nGol3eWVY0nXMGYnOuY1&amp;t=638568712745067788" width="0" height="0" style="border-width:0px;" /></a><span><a title="SearchJudgments" href="/sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&amp;CaseNumber=null&amp;DateType=1&amp;SearchPeriod=8&amp;COpenDate=null&amp;CEndDate=null&amp;freeText=null&amp;Importance=null&amp;CaseMonth=2">SearchJudgments</a></span><a id="ctl00_PlaceHolderPageTitleInTitleArea_ctl00_SkipLink"></a></span>
+                                                    
+                                                </span>
+
+                                                <div class="ms-displayInlineBlock ms-normalWrap">
+                                                    <a href="javascript:;" id="ms-pageDescriptionDiv" style="display: none;">
+                                                        <span id="ms-pageDescriptionImage">&#160;</span>
+                                                    </a>
+                                                    <span class="ms-accessible" id="ms-pageDescription">
+                                                        
+                                                    </span>
+                                                    <script type="text/javascript">// <![CDATA[ 
+
+
+                                                        _spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout");
+                                                    // ]]>
+</script>
+                                                </div>
+                                            </h1>
+                                                 </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                    <!-- ===== STARTER: Main Placeholder gets replaced with content of the page ======================================= -->
+                                    
+               
+
+<div class="Layout-HomePage">
+
+    <div class="Width100">
+
+        <div class="ms-webpart-zone ms-fullWidth">
+	<div id="MSOZoneCell_WebPartWPQ2" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div WebPartID="28d4de48-fa60-4120-a519-553046f90a85" HasPers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div id="ctl00_ctl41_g_28d4de48_fa60_4120_a519_553046f90a85">
+				<div Elad_wpid="ctl00$ctl41$g_28d4de48_fa60_4120_a519_553046f90a85">
+					<input type="hidden" name="ctl00$ctl41$g_28d4de48_fa60_4120_a519_553046f90a85$ctl00$ctl41$g_28d4de48_fa60_4120_a519_553046f90a85_WPTypeName" id="ctl00$ctl41$g_28d4de48_fa60_4120_a519_553046f90a85_WPTypeName" value="תאריך החלטות" /><iframe id="serviceFram" scrolling="no" >
+
+</iframe>
+<style type="text/css">
+    #serviceFram {
+        width: 100%;
+   height:1500px;
+    }
+</style>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        //$("#serviceFram").attr("scrolling", "no")
+        getService($("#serviceFram"));
+       // iframeLoaded();
+        //$('#serviceFram').on("load", function () {
+        //    alert("iframe");
+        //    var doc = this.contentDocument || this.contentWindow.document;
+        //    var target = doc.getElementsByClassName("search-button");
+        //   // target.innerHTML = "Found It!";
+        //    $(target).on("click", function () {
+        //        debugger;
+        //        $(window).scrollTop(($(".search-page").offset().top) - 500);
+        //    });
+        //});
+        //$('#serviceFram').load(function () {
+        //    alert("iframe");
+        //  $(".search-button").on("click", function () {
+        //    debugger;
+        //    $(window).scrollTop(($(".search-page").offset().top) - 500);
+        //});
+        //});
+      //  $('body').on('click', '.search-button', function (){
+       
+    });
+    var HrefVars = [];
+    function setQueryArray(query) {
+        var hash;
+        var hashes = query.slice(window.location.href.indexOf('?') + 1).split('&');
+        for (var i = 0; i < hashes.length; i++) {
+            hash = hashes[i].split('=');
+            HrefVars.push(hash[0]);
+            HrefVars[hash[0]] = hash[1];
+        }
+    }
+
+    function getService(elemId) {
+       
+        var webPartId = GetCurrentEladWp(elemId);
+        var sType = GetCurrentEladWpProperty(webPartId, "_WPTypeName");
+        // = $("[id$='" + elemId + "_WPTypeName']").val();
+        //   var dateType = HrefVars["OpenYearDate"]==
+        var serviceURL = "";
+        var SearchPeriod = null;
+        var CaseOpenDate = null;
+        var CaseEndDate = null;
+        var selectedSearchUrl = "";
+        var caseMonth = (HrefVars["CaseMonth"] == undefined) ? "null" : HrefVars["CaseMonth"];
+        switch (sType) {
+            case "תאריך פתיחת תיק":
+                setQueryArray(window.location.href);
+                switch (HrefVars["DateType"]) {
+                    case "1":
+                        SearchPeriod = HrefVars["SearchPeriod"];
+                        break;
+                    case "2":
+                        sCaseOpenDate = HrefVars["COpenDate"];
+                        sCaseEndDate = HrefVars["CEndDate"];
+                        //debugger;
+                        CaseOpenDate = sCaseOpenDate == "null" ? sCaseOpenDate : moment(sCaseOpenDate, 'DD/MM/YYYY').format('DD-MM-YYYY'); //new Date(sCaseOpenDate);
+                        CaseEndDate = sCaseEndDate == "null" ? sCaseEndDate : moment(sCaseEndDate, 'DD/MM/YYYY').format('DD-MM-YYYY');// new Date(sCaseEndDate);
+                        break;
+                    default:
+
+                }
+               
+                selectedSearchUrl = getConfigValueByKey("לפי פתיחת הליך");
+                serviceURL = selectedSearchUrl + '/' + HrefVars["freeText"] + '/' + HrefVars["OpenYearDate"] + '/' + HrefVars["CaseNumber"] + '/' + HrefVars["DateType"] + '/' + SearchPeriod + '/' + CaseOpenDate + '/' + CaseEndDate + '/' + HrefVars["CaseMonth"];
+                break;
+            case "תאריך החלטות":
+                setQueryArray(window.location.href);
+                switch (HrefVars["DateType"]) {
+                    case "1":
+                        SearchPeriod = HrefVars["SearchPeriod"];
+                        break;
+                    case "2":
+                        sCaseOpenDate = HrefVars["COpenDate"];
+                        sCaseEndDate = HrefVars["CEndDate"];
+                        CaseOpenDate = sCaseOpenDate == "null" ? sCaseOpenDate : moment(sCaseOpenDate, 'DD/MM/YYYY').format('DD-MM-YYYY');// new Date(sCaseOpenDate);
+                        CaseEndDate = sCaseEndDate == "null" ? sCaseEndDate : moment(sCaseEndDate, 'DD/MM/YYYY').format('DD-MM-YYYY');// new Date(sCaseEndDate);
+                        break;
+                    default:
+
+                }
+                selectedSearchUrl = getConfigValueByKey("תאריך החלטות/ פסקי דין");
+                serviceURL = selectedSearchUrl + '/' + HrefVars["freeText"] + '/' + HrefVars["OpenYearDate"] + '/' + HrefVars["CaseNumber"] + '/' + HrefVars["DateType"] + '/' + SearchPeriod + '/' + CaseOpenDate + '/' + CaseEndDate + '/' + HrefVars["Importance"] + '/' + HrefVars["CaseMonth"];
+                break;
+            case "חיפוש מתקדם":
+                serviceURL = getConfigValueByKey("חיפוש מתקדם");
+                break;
+            case "הליך המלא":
+                setQueryArray(window.location.href);
+                selectedSearchUrl = getConfigValueByKey("להליך המלא");
+               // $('#serviceFram').attr('src', '/Verdicts/Verdicts/CaseResults/2015/435');
+                serviceURL = selectedSearchUrl + '/' + HrefVars["CaseYear"] + '/' + decodeURI(HrefVars["CaseNumber"]) + '/' + HrefVars["CaseMonth"];
+                break;
+            default:
+
+        }
+        $('#serviceFram').attr('src', serviceURL);
+
+    }
+    //function iframeLoaded() {
+    //    var iFrameID = document.getElementById('serviceFram');
+    //    if (iFrameID) {
+    //        // here you can make the height, I delete it first, then I make it again
+    //        iFrameID.height = "";
+    //        iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+    //    }
+    //}
+    var Message = function (type, data) {
+        var private = {
+            type: type,
+            data: data
+        };
+
+        return {
+            Values: function () {
+                return private;
+            },
+
+            Encode: function () {
+                return JSON.stringify(private);
+            },
+
+            Decode: function (message) {
+                try {
+                    var decoded = JSON.parse(message);
+                    private.type = decoded.type;
+                    private.data = decoded.data;
+                } catch (ex) {
+                    console.error(ex);
+                }
+            }
+        };
+    };
+
+    var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+    var eventer = window[eventMethod];
+    var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+
+    //Handle iframe communication messages
+    eventer(messageEvent, function (e) {
+        var message = new Message();
+        message.Decode(e.data);
+        var messageValues = message.Values();
+
+        switch (messageValues.type) {
+            // event name in case of multi event types
+            case 'Click':
+                try {
+                    //  $(window).scrollTop($("#serviceFram").offset().top);
+                    $(window).scrollTop(0);
+                    //var iframeHeight = messageValues.data.windowHeight;
+                    //document.getElementById("myframe").style.height = iframeHeight + "px";
+
+                } catch (ex) {
+                    console.error(ex)
+                }
+                break;
+            case 'ResizeWindow':
+                try {
+                    var iframeHeight = messageValues.data.windowHeight;
+                    document.getElementById("serviceFram").style.height = iframeHeight+35 + "px";
+
+                    //$('#serviceFram').css('height',data)
+                    //var iframeHeight = messageValues.data.windowHeight;
+                    //document.getElementById("myframe").style.height = iframeHeight + "px";
+
+                } catch (ex) {
+                    console.error(ex)
+                }
+                break;
+        };
+    }, false);
+
+</script>
+
+				</div>
+			</div><div class="ms-clear"></div></div>
+		</div>
+	</div>
+</div>
+
+    </div>
+    <div class="container">
+        <div class="row HomeMainErea">
+            <div class="col-md-8">
+                <menu class="ms-hide">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu>
+            </div>
+            <div class="col-md-4">
+                
+            </div>
+        </div>
+    </div>
+    <div class="Width100">
+        
+    </div>
+    <div class="container">
+        <div class="row HomeMainErea">
+            <div class="col-md-8">
+                
+            </div>
+            <div class="col-md-4">
+                
+            </div>
+        </div>
+    </div>
+    <div class="Width100">
+        
+    </div>
+</div>
+
+
+<input type="hidden" name="ctl00$PlaceHolderMain$PL$PLPictureUrlForUse" id="PLPictureUrlForUse" />
+<div style='display:none' id='hidZone'></div>
+
+                                </div>
+                                <div style="clear: both;" />
+
+
+                            </div>
+
+
+                       
+                    </div>
+                    <div class="StripFooter" id="FooterContent">
+                        <footer class="hidden-xs">
+                              
+  <div class="container ListLinks" id="ListLinks">
+      <div class="row">
+   
+
+             <div class="col-md-2"><img id="ctl00_FooterLink_imgLogo" data-bind="attr: { src: Footer_Img }" /></div>
+          <!-- ko foreach:items-->
+          
+         <div class="col-md-2"> <a data-bind="text:LinkTitle,attr:{href:eldTitleUrl_url}" class="ColtitleFooter"></a>
+           <ul data-bind="foreach:eldUrlGroup">
+            <li><a data-bind="text:Title,attr:{ href: LinkUrl, title: Title }"></a></li>            
+           </ul>
+         </div>
+        <!--/ko-->
+      </div>
+    </div>
+ <div id="ctl00_FooterLink_hiddenArea" class="hiddenErea"><input type="hidden" name="ctl00$FooterLink$UCFooter_web" id="UCFooter_web" /><input type="hidden" name="ctl00$FooterLink$UCFooter_list" id="UCFooter_list" value="Lists/FooterList" /><input type="hidden" name="ctl00$FooterLink$UCFooter_view" id="UCFooter_view" value="ea86613d-9df7-4db2-b1a7-f29955cd465b" /></div>
+<script>
+    $(document).ready(function () {
+        if (footerJSON != 0 && footerJSON.Result!="[]") {
+            $("#FooterContent").css("display", "block")
+            bindDataToFooterUC(footerJSON);
+        }
+        else
+            $("#FooterContent").css("display", "none");
+    });
+    //$(window).load(function () {
+    //    alert(footerJSON);
+    //})
+    //GetListItemsByCustomHiddenValues("UCFooter", bindDataToFooterUC);
+    //  bindDataToFooterUC("UCFooter");
+  //  bindDataToFooterUC(footerJSON);
+</script>
+
+                        </footer>
+
+                    </div>
+                    <div class="SubFooter clearfix">
+                          
+
+
+  <div class="container" id="LowerLinks">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="ContainerCredit">
+          <div class="pull-right">© בית המשפט העליון 2018 </div>
+          <div class="pull-left">
+            <UL>
+                 <!-- ko foreach:F_items-->
+              <li><a  data-bind="attr: { href: eldUrl_url, target: eldOpenUrlNewWindow ? '_blank' : '' }">
+                   <span class="" data-bind="text: LinkTitle"></span>
+                </a> </li>
+                <!--/ko-->
+                <!-- ko foreach:S_items-->
+                 <a    data-bind="attr: { href: eldTitleUrl_url, title: eldTitleUrl_description }"><img class="SocialIcon" data-bind="    attr: { src: eldpicture.ImageUrl, alt: eldTitleUrl_description, title: eldTitleUrl_description }"></a>
+      
+                <!--/ko-->
+            </UL>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+ <div id="ctl00_LowerLinks_LowerLinkshiddenArea" class="hiddenErea"><input type="hidden" name="ctl00$LowerLinks$UCLowerLinks_web" id="UCLowerLinks_web" value="http://supreme.court.gov.il/sites/en" /><input type="hidden" name="ctl00$LowerLinks$UCLowerLinks_list" id="UCLowerLinks_list" value="Lists/LowerLinksList" /><input type="hidden" name="ctl00$LowerLinks$UCLowerLinks_view" id="UCLowerLinks_view" value="335e4bf9-2d1a-4760-8263-35ca52a7f0c8" /></div>
+<script>
+  
+    //GetLowerLinkItemsByCustomHiddenValues("UCLowerLinks", bindDataToLowerLinksUC);
+    $(document).ready(function () {
+        bindDataToLowerLinksUC(lowerLinksJSON);
+        $('#LowerLinks .pull-right').text(getValueByKey("Signature"));
+    });
+   
+
+</script>
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- ===== STARTER: Main Scrolling Body Ends Here ================================================================================= -->
+
+            <!-- ===== STARTER: Needed for form stuff ========================================================================================= -->
+            
+                <script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0x362B2327AB8356896558BC5BFB3D61CA76A226285E3205EED3C2F12486BD9BF906D1A184173308BB795D071230FC8896433B43DB66F6E4D2B7DFF130E9F6B0FD,24 Nov 2025 06:33:51 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+            
+
+            <!-- ===== STARTER: Hidden Placeholders =========================================================================================== -->
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+        
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{6137f4d4-3a7f-48ea-9cf8-bb5c613aaed0}",itemId: 4,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fsites\u002fen\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';g_spPreFetchKeys.push('sp.core.js');WPSC.Init(document);
+var varPartWPQ2 = WPSC.WebPartPage.Parts.Register('WPQ2','28d4de48-fa60-4120-a519-553046f90a85',document.getElementById('WebPartWPQ2'));
+WPSC.WebPartPage.WebURL = 'http:\u002f\u002fsupreme.court.gov.il\u002fsites\u002fen';
+WPSC.WebPartPage.WebServerRelativeURL = '\u002fsites\u002fen';
+
+
+            ExecuteOrDelayUntilScriptLoaded(
+                function() 
+                {                    
+                    Srch.ScriptApplicationManager.get_current().states = {"webUILanguageName":"en-US","webDefaultLanguageName":"en-US","contextUrl":"http://supreme.court.gov.il/sites/en","contextTitle":"HomePage","supportedLanguages":[{"id":1025,"label":"Arabic"},{"id":1093,"label":"Bangla"},{"id":1026,"label":"Bulgarian"},{"id":1027,"label":"Catalan"},{"id":2052,"label":"Chinese (Simplified)"},{"id":1028,"label":"Chinese (Traditional)"},{"id":1050,"label":"Croatian"},{"id":1029,"label":"Czech"},{"id":1030,"label":"Danish"},{"id":1043,"label":"Dutch"},{"id":1033,"label":"English"},{"id":1035,"label":"Finnish"},{"id":1036,"label":"French"},{"id":1031,"label":"German"},{"id":1032,"label":"Greek"},{"id":1095,"label":"Gujarati"},{"id":1037,"label":"Hebrew"},{"id":1081,"label":"Hindi"},{"id":1038,"label":"Hungarian"},{"id":1039,"label":"Icelandic"},{"id":1057,"label":"Indonesian"},{"id":1040,"label":"Italian"},{"id":1041,"label":"Japanese"},{"id":1099,"label":"Kannada"},{"id":1042,"label":"Korean"},{"id":1062,"label":"Latvian"},{"id":1063,"label":"Lithuanian"},{"id":1086,"label":"Malay"},{"id":1100,"label":"Malayalam"},{"id":1102,"label":"Marathi"},{"id":1044,"label":"Norwegian"},{"id":1045,"label":"Polish"},{"id":1046,"label":"Portuguese (Brazil)"},{"id":2070,"label":"Portuguese (Portugal)"},{"id":1094,"label":"Punjabi"},{"id":1048,"label":"Romanian"},{"id":1049,"label":"Russian"},{"id":3098,"label":"Serbian (Cyrillic)"},{"id":2074,"label":"Serbian (Latin)"},{"id":1051,"label":"Slovak"},{"id":1060,"label":"Slovenian"},{"id":3082,"label":"Spanish (Spain)"},{"id":2058,"label":"Spanish (Mexico)"},{"id":1053,"label":"Swedish"},{"id":1097,"label":"Tamil"},{"id":1098,"label":"Telugu"},{"id":1054,"label":"Thai"},{"id":1055,"label":"Turkish"},{"id":1058,"label":"Ukrainian"},{"id":1056,"label":"Urdu"},{"id":1066,"label":"Vietnamese"}],"navigationNodes":[{"id":1001,"name":"Everything","url":"{searchcenterurl}/results.aspx","promptString":"Search everything"},{"id":1002,"name":"People","url":"{searchcenterurl}/peopleresults.aspx","promptString":"Search people"},{"id":1003,"name":"Conversations","url":"{searchcenterurl}/conversationresults.aspx","promptString":"Search conversations"},{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"webUILanguageDirectory":"en-US","showAdminDetails":false,"defaultPagesListName":"Pages","isSPFSKU":false,"defaultQueryProperties":{"culture":1033,"uiLanguage":1033,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true},"showSuggestions":true,"showPersonalResults":true,"openDocumentsInClient":false};
+                    Srch.U.trace(null, 'SerializeToClient', 'ScriptApplicationManager state initialized.');
+                }, 'Search.ClientControls.js');var g_clientIdDeltaPlaceHolderMain = "ctl00_DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderPageTitleInTitleArea = "DeltaPlaceHolderPageTitleInTitleArea";
+Sys.Application.add_init(function() {
+    $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"initialPrompt":"חפש באתר...","messages":[],"queryGroupNames":["Default"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/MasterSearch/Control_SearchBox_copy.js","resultsPageAddress":"Search%20Results.aspx","showDataErrors":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_ctl43_csr"));
+});
+//]]>
+</script>
+</form>
+
+        <!-- ===== STARTER: Adds extra stuff like another form for Survey management ====================================================== -->
+        
+        
+
+<div class="modal fade" id="SearchVerdictsModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog-SearchVerdicts" role="document">
+              
+<div class="modal-content">
+    <div class="modal-header">
+    <button title="סגור" type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="resetModel()"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title-small" id="myModalLabel" data-bind="text:Title"></h4>
+</div>
+<form>
+    <div class="modal-body Scroll ">
+    <div class="SearchVerdictsErea" id="SearchForProssesModel">
+        <div ><h2 data-bind="text:Title"></h2></div>
+        <div class="HomeContentBox TraceVertics">
+            <p data-bind="text: TitleDescription"></p>
+            <p class="show-essential-vertics"> <!--ko text: Decisions--><!--/ko-->
+                <a href="javascript:searchUrlDayAndWeek(1);"  data-bind="attr:{title:Decisions+' '+DayDecisions}">    <!--ko text: DayDecisions--><!--/ko--></a> |
+                <a href="javascript:searchUrlDayAndWeek(2);" data-bind="attr:{title:Decisions+' '+WeekDecisions}">    <!--ko text: WeekDecisions--><!--/ko--></a>
+            </p>
+
+      <div><input type="search" class="form-control" id="SearchJudges" data-bind="attr:{placeholder:TypeText}"></div>
+            
+        <div class="row MarginTop15">
+                <div class="col-md-3">
+
+                    <button type="button" id="old_" 
+                        data-bind="text: OldOption"
+						style = "float: right; 
+						text-align: center;
+						text-decoration: none;
+						cursor: pointer;
+						border: 1px solid #295581;
+						margin-right: -1px;
+						margin-left: 0;
+						padding: 0px ;
+						width: 50px ;
+						height: 35px;
+						display: inline-grid !important;
+						min-width: 2em;
+						font-size: 1.0em !important;
+						font-weight: 600 !important;
+						line-height: 34px;
+						border-radius: 0px 7px 7px 0px !important;
+						background-color: white;
+						color: #295581;">
+					</button>
+                    <button type="button" id="new_" 
+                        data-bind="text: NewOption"
+						style = "float: right; 
+						text-align: center;
+						text-decoration: none;
+						cursor: pointer;
+						border: 1px solid #295581;
+						margin-right: -1px;
+						margin-left: 0;
+						padding: 0px ;
+						width: 50px ;
+						height: 35px;
+						display: inline-grid !important;
+						min-width: 2em;
+						font-size: 1.0em !important;
+						font-weight: 600 !important;
+						line-height: 34px;
+						border-radius: 7px 0px 0px 7px !important;
+						background-color: #295581;
+						color: white;">
+					</button>
+                </div>
+       </div>
+
+    <div class="row MarginTop15">
+                <div class="col-md-4 ProcessNumber">
+                   
+                    <input type="search" class="form-control pull-left" id="ProcessNumber" style="color: black !important; opacity: 1 !important;" data-bind="attr:{placeholder:TypeCaseNum}" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="5" autocomplete="off" placeholder="הקלד מס הליך">
+                    <span class="Slash">-</span>
+
+                </div>
+
+
+                <div class="col-md-2 ui-select" id="monthBox_">
+                    <select class="form-control minimal" id="MonthSelection" data-bind="foreach: MonthNum">
+                    <option data-bind="text:$data,value:$index(), attr:{'selected':$index()=='0'?'selected': null}"></option>
+                    </select>
+                </div>
+
+             <br class="mobile-break">
+            <div class="col-md-2 ui-select">
+                 <select class="form-control minimal" id="OpenYear">
+                     <option data-bind="text:OpenYear" selected></option>
+                     <!--ko foreach: new Array(new Date().getFullYear()-1947)-->
+                     <option data-bind="text:new Date().getFullYear()-$index()"></option>
+                     <!--/ko-->
+                </select>
+            </div>
+           
+    </div>
+       
+
+
+             <div class="FormDevider"></div>
+                          
+                        
+
+             <div class="row MarginTop20">
+                                <div class="col-md-12 dates-types">
+                                    <div>
+                                        <label class="pull-right">
+                                            <input role="radiogroup" data-bind="attr: { title: SelectDateOption[0] }" style="float:left;margin-top:10px;" type="radio" name="dateTypeModal" value="1" class="styled-btn" checked="checked">
+                                            <i class="fa fa-circle-o fa-2x"></i><i class="fa fa-dot-circle-o fa-2x"></i>
+                                            <span data-bind="text:SelectDateOption[0]"></span>
+                                        </label>
+                                    </div>
+                                    <div>
+                                        <label class="pull-right">
+                                            <input role="radiogroup"  data-bind="attr: { title: SelectDateOption[1] }"  tabindex="-1" style="float: left; margin-top: 10px;" type="radio" name="dateTypeModal" value="2" class="styled-btn">
+                                            <i class="fa fa-circle-o fa-2x"></i><i class="fa fa-dot-circle-o fa-2x"></i>
+                                         <span data-bind="text:SelectDateOption[1]"></span>
+                                        </label>
+                                    </div>
+                                </div>
+            </div>
+             <div class="row MarginTop10">
+                                <div class="col-md-4">
+                                    <div class="pull-right TimeSelector">
+                                        <select data-bind="foreach: SchoolYearOptions" title="טווח זמנים" name="SchoolYear" class="form-control minimal" id="SchoolYear-b">
+                                                <option data-bind="text: $data, value: $index() == 7 ? 'custom-dates' : $index() + 1, attr: { 'selected': $index() == '6' ? 'selected' : null }"></option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 DateArea conditional-dates-modal conditional-dates hidden">
+                                    <div class="datepicker-container">
+                                        <div class="input-group date" data-provide="datepicker">
+                                            <input type="text" class="form-control" id="type15" data-bind="attr:{title:formDate, placeholder:formDate}">
+                                            <div class="input-group-addon"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 conditional-dates conditional-dates-modal hidden">
+                                    <div class="datepicker-container DP2">
+                                        <div class="input-group input-group2 date" data-provide="datepicker">
+                                            <input type="text" class="form-control" id="type16" data-bind="attr:{title:untillDate, placeholder:untillDate}" >
+                                            <div class="input-group-addon"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+             <div class="FormDevider"></div>
+         
+           
+        <div class="row MarginTop25">
+            <div class="col-md-4">
+                <select class="form-control minimal" id="Importance" data-bind="foreach: ImportanceOptions">
+                <option data-bind="text:$data,value:$index(), attr:{'selected':$index()=='0'?'selected': null}"></option>
+                </select>
+            </div>
+            <div class="col-md-8 text-left DateSearchLine">
+                <a data-bind="attr: { target:OpenInNewWindow=='True'?'_target':''},click:GotoFullSearchh" title="חיפוש מתקדם" class="AdvanceSearch"> <u data-bind="text:UrlTitle">חיפוש מתקדם</u></a><span class="SlashSmall">|</span>
+                <input type="reset"  class="ClearFields" data-bind="attr: { title: ClearFields, value: ClearFields }">
+                <button type="submit" class="btn btn-primary SearchMainForm" data-bind="click: UrlC, value: Search, text: Search, attr: { title: Search }"></button>
+           </div>
+        </div>
+     
+      </div>
+      </div>
+    
+         </div>
+     </form>
+      </div>
+    </div>
+    </div>
+
+ 
+
+ <script>
+ //<script type="text/javascript">
+ 
+     $(document).ready(function () {
+        oldNewButtons_();
+         loadSearchVerdicts($("#SearchVerdictsModal")[0], searchVerdictsJSON);
+        
+       
+     });
+     
+
+     function loadSearchVerdicts(elem, json) {
+
+        var recentUpdatesHomePageVM = {
+
+            items: [],
+        };
+
+
+
+         var webPartId = GetCurrentEladWp(elem);
+        
+
+        if (json.length > 0) {
+            recentUpdatesHomePageVM.Title = json[0].SearchTitle;
+            recentUpdatesHomePageVM.TitleDescription = json[0].SearchDescription;
+            recentUpdatesHomePageVM.UrlTitle = json[0].UrlTitle;
+            //recentUpdatesHomePageVM.Url_url = GetCurrentEladWpProperty(webPartId, "_WPUrl");// "?&OpenYearDate=2015&CaseNumber=null&DateType=2&COpenDate=01/06/2016&CEndDate=01/06/2017";
+            recentUpdatesHomePageVM.OpenInNewWindow = json[0].eldOpenUrlNewWindow
+            recentUpdatesHomePageVM.TypeText = getValueByKey("TypeText");
+            recentUpdatesHomePageVM.OpenYear = getValueByKey("OpenYear");
+            recentUpdatesHomePageVM.TypeCaseNum = getValueByKey("TypeCaseNum");
+            recentUpdatesHomePageVM.SelectDateOption = getValueByKey("SelectDateOption").split(';');
+            recentUpdatesHomePageVM.SchoolYearOptions = getValueByKey("SchoolYearOptions").split(';');
+            recentUpdatesHomePageVM.formDate = getValueByKey("formDate");
+            recentUpdatesHomePageVM.untillDate = getValueByKey("untillDate");
+            recentUpdatesHomePageVM.ImportanceOptions = getValueByKey("ImportanceOptions").split(';');
+            recentUpdatesHomePageVM.ClearFields = getValueByKey("ClearFields");
+            recentUpdatesHomePageVM.Search = getValueByKey("Search");
+            recentUpdatesHomePageVM.IsPopup = "true";
+            recentUpdatesHomePageVM.AllSchoolYear = getValueByKey("AllSchoolYear");
+            recentUpdatesHomePageVM.Decisions = getValueByKey("Decisions");
+            recentUpdatesHomePageVM.DayDecisions = getValueByKey("DayDecisions");
+            recentUpdatesHomePageVM.WeekDecisions = getValueByKey("WeekDecisions");
+            recentUpdatesHomePageVM.MonthNum = getValueByKey("MonthNum").split(';');
+            recentUpdatesHomePageVM.OldOption = getValueByKey("OldOption");
+            recentUpdatesHomePageVM.NewOption = getValueByKey("NewOption");
+            recentUpdatesHomePageVM.UrlC = function ()
+            {
+                searchUrl("true");
+            }
+            ko.applyBindings(recentUpdatesHomePageVM, $("#SearchVerdictsModal")[0]);
+          
+         
+
+            $('#SchoolYear-b').children().eq(6).text(recentUpdatesHomePageVM.AllSchoolYear.split(";")[0]);
+            $('.modal-content [name="dateTypeModal"]').on("change", function () {
+                $(this).closest('form').find('#SchoolYear-b').children().eq(6).text(recentUpdatesHomePageVM.AllSchoolYear.split(";")[parseInt($(this).val()) - 1]);
+            });
+        }
+
+
+
+     }
+     function resetModel()
+     {
+         $('#SearchVerdictsModal .ClearFields').click();
+     }
+   
+
+     function GotoFullSearchh() {
+         window.open(getConfigValueByKey("דף חיפוש מתקדם"));
+     }
+
+     function oldNewButtons_() {
+            document.getElementById("old_").onclick = function () {
+            document.getElementById("new_").style.backgroundColor = "white";
+            document.getElementById("old_").style.backgroundColor = "rgb(41, 85, 129)";
+            document.getElementById("new_").style.color = "rgb(41, 85, 129)";
+            document.getElementById("old_").style.color = "white";
+            document.getElementById("monthBox_").style.display = "none";
+            document.getElementById('MonthSelection').selectedIndex = "0";
+        }
+
+            document.getElementById("new_").onclick = function () {
+            document.getElementById("old_").style.backgroundColor = "white";
+            document.getElementById("new_").style.backgroundColor = "rgb(41, 85, 129)";
+            document.getElementById("new_").style.color = "white";
+            document.getElementById("old_").style.color = "rgb(41, 85, 129)";
+            document.getElementById("monthBox_").style.display = "block";
+
+        }
+    }
+   </script>
+     
+
+         
+
+
+
+
+
+<div class="modal fade" id="SearchDiscussionsModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button title="סגור" type="button" class="close" data-dismiss="modal" aria-label="סגור"><span
+                        aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title-small" id="myModalLabel" data-bind="text:SearchDiscussions"></h4>
+            </div>
+            <div class="modal-body">
+                <form>
+
+                    <div class="box-search search-on">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-3 col-xs-12">
+                                <label data-bind="attr:{title:ByDateTitle}"  class="radio-label">
+                                   <input class="styled-btn" type="radio" name="search-radios" id="find-date" value="composition" checked>
+                                    <i class="fa fa-circle-o fa-2x"></i>
+                                    <i class="fa fa-dot-circle-o fa-2x"></i>
+                                    <span data-bind="text:ByDateTitle"></span>
+                                </label>
+                            </div>
+                            <div class="col-md-7 col-sm-7 col-xs-12 box-mobile">
+                                <div class="row">
+                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                                           <label data-bind="attr: { title: formDate }, text: formDate " for="from"></label>
+                                        <div class="input-group date from-date">                                         
+                                              <input id="from" type="text" name="from" class="form-control">
+                                            <span class="input-group-addon"></span>
+                                        </div>
+                                        <div class="RedAlert" id="emptyfromAlert" style="display: none;" data-bind="text:PleaseFillThisField"></div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                                       <label data-bind="attr: { title: untillDate }, text: untillDate "  for="to"></label>
+                                        <div class="input-group date to-date">                                           
+                                            <input id="to" type="text" name="to" class="form-control">
+                                            <span class="input-group-addon"></span>
+                                        </div>
+                                       <div class="RedAlert" id="toAlert" style="display: none;" data-bind="text:PleaseFillThisField"></div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                                         <label data-bind="attr: { title: CompositionTitle }, text: CompositionTitle"  for="type"></label>
+                                       <select id="type" class="form-control minimal" data-bind="foreach: CompositionOptions">
+                                            <option data-bind="text:$data,value:$index()"></option>
+                                        </select>
+                                         <div class="RedAlert" id="typeAlert" style="display: none;" data-bind="text:PleaseFillThisField"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-2 col-xs-12 box-mobile">
+                              <button title="חפש" type="button" class="btn find-date-btn regular-btn btn-block eldSearchDiscussions"  data-bind="text: Search "></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-search search-off">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-3 col-xs-12">
+                                <label class="radio-label">
+                                    <input data-bind="attr: {title:ByCaseTitle}" class="styled-btn" type="radio" name="search-radios" id="find-procedure" value="process">
+                                    <i class="fa fa-circle-o fa-2x"></i>
+                                    <i class="fa fa-dot-circle-o fa-2x"></i>
+                                    <span data-bind="text: ByCaseTitle"></span>
+                                </label>
+                            </div>
+                            <div class="col-md-7 col-sm-6 col-xs-12 box-mobile">
+             <div class="row">
+                 <div class="col-md-4">
+                    <button type="button" id="oldDis" class="updatedButtons buttonOld" data-bind="text: OldOptionDis" disabled="disabled"></button>
+                    <button type="button" id="newDis" class="updatedButtons buttonNew" data-bind="text: NewOptionDis" disabled="disabled"></button>
+                 </div>
+                </div>
+
+             <div class="row">
+                           <div class="col-md-4 col-sm-4 col-xs-12">
+                                  <label for="num_process" data-bind="attr: { title: CaseNum }, text: CaseNum "></label>
+                                  <input data-bind="attr: { title: CaseNum }" id="num_process" name="num_process" type="text"  pattern="[0-9]+" maxlength="5" class="form-control" data-bind="attr:{placeholder:TypeCaseNum }"  disabled="disabled">
+                                  <div class="RedAlert" id="numProcessAlert" style="display: none;"  data-bind="text:PleaseFillThisField"></div>
+                                </div>
+                           <div class="col-md-4 col-sm-4 col-xs-12" id="monthBoxDis">
+                                 <label for="month_process" data-bind="text: OpenMonth, attr: { title: OpenMonth }"  ></label>
+                                <select class="form-control minimal" id="month_process" data-bind="foreach: MonthNum" disabled="disabled">
+                                <option data-bind="text:$data,value:$index(), attr:{'selected':$index()=='0'?'selected': null}"></option>
+                                </select>
+                               <div class="RedAlert" id="monthProcessAlert" style="display: none;" data-bind="text:PleaseFillThisField"></div>
+                            </div>
+                 <!--    MASTER9-->
+                           <div class="col-md-4 col-sm-4 col-xs-12">
+                                <label  data-bind="text: OpenYear1, attr: { title: OpenYear1 }"  for="year_process"></label>
+                                    <select id="year_process" name="year_process"  class="form-control minimal" disabled="disabled">
+                                    <option value="" data-bind="text: OpenYearOption"></option>
+                                    <!--ko foreach: new Array(new Date().getFullYear()-1999)-->
+                                    <option data-bind="value: new Date().getFullYear() - $index(), text: new Date().getFullYear() - $index()"></option>
+                                    <!--/ko-->
+                                    </select>
+                                <div class="RedAlert" id="yearProcessAlert" style="display: none;" data-bind="text:PleaseFillThisField"></div>
+                            </div>
+             </div>   
+        </div>
+                            <div class="col-md-2 col-sm-2 col-xs-12 box-mobile searchBoxTopMargin">
+                            <button title="חפש" type="button" class="btn find-procedure-btn regular-btn btn-block eldSearchDiscussions" disabled="disabled" data-bind="text: Search "></button>
+                            </div>
+                        </div>
+                    </div>
+                </form> 
+                </div></div>
+        </div>
+            </div>
+       
+   
+
+<script type="text/javascript">
+    $(document).ready(function () {
+          
+        var CalendarVM = {
+            items: [],
+        };
+
+        oldNewButtonsDis();
+
+        $('.DatediscussionPickerModal').datepicker({
+            language: "he",
+            rtl: true,
+            autoclose: true,
+            todayHighlight: true,
+            format: "dd/mm/yyyy",
+        });
+        $("#DateModal").val(moment(new Date().toString()).format("DD/MM/YYYY")).datepicker('update');
+        $("#SearchDiscussionsModal.reset").click(function () {
+            $('#SearchDiscussionsModal.ClearFields').click();
+            $("#SearchDiscussionsModal.RedAlert").css("display", "none");
+            $("#DateModal").val(moment(new Date().toString()).format("DD/MM/YYYY")).datepicker('update');
+            $("#SearchDiscussionsModal #ProcessNumberModal").attr('disabled', false);
+            $("#SearchDiscussionsModal #OpenYearModal").attr('disabled', false);
+            $("#SearchDiscussionsModal #DateModal").attr('disabled', true);
+        });
+        $(".eldSearchDiscussions").click(function () {
+       
+            var eldLength=$('.RedAlert:visible').length;
+            if (eldLength == 0) {
+                var OpenYear = '';
+                var ProcessNumber = '';
+                var surl = '';
+                var from ='' ;
+                var to = '';
+                var type = '';
+                var CaseMonth = '';
+                CaseMonth = $('#month_process').val();
+                if (CaseMonth == 0) CaseMonth = "";
+
+
+                switch ($("[name='search-radios']:checked").val()) {
+                    case "process"://לפי הליך
+                        OpenYear = $('#year_process').val();
+                        ProcessNumber = $('#num_process').val();
+                        surl = getConfigValueByKey("דיון לפי פרטים");
+                  //  window.open(getConfigValueByKey("סרויס איתור דיונים") + "?&type=2&P_N=-N" + ProcessNumber + "&O_Y=-N" + OpenYear + "&CaseMonth=" + CaseMonth);
+                     window.open(getConfigValueByKey("סרויס איתור דיונים") + "?&type=2&CaseYear=" + OpenYear + "&CaseMonth=" + CaseMonth + "&CaseSerialNumber=" + ProcessNumber);
+
+                        break;
+                    case "composition": // לפי תאריך וסוג רכב
+                        fromDate = $('#from').val();
+                        toDate = $('#to').val();
+                        var pageLang = $('html').attr('lang');
+                        if(pageLang == 'ar') {
+                            fromDate = getFromARDate($('#from').val());
+                            toDate = getFromARDate($('#to').val());
+                        }
+                        //type = $('#type').val() == '4' ? '5' : $('#type').val();
+                        type = $('#type').val();
+                        type++;
+                        surl = getConfigValueByKey("דיון לפי תאריך");
+                    
+                       // window.open(getConfigValueByKey("סרויס איתור דיונים") + "?&type=7&FD=-N" + fromDate + "&LD=-N" + toDate + "&CM=-N" + type);
+                      window.open(getConfigValueByKey("סרויס איתור דיונים") + "?&type=7&FromDate=" + fromDate + "&ToDate=" + toDate + "&JudicialType=" + type++);
+                       
+                        break;
+                    default:
+                }
+                //reset model
+                resetDiscModel();
+
+            }
+            
+        });
+        CalendarVM.SearchDiscussions = getValueByKey("SearchDiscussions");
+        CalendarVM.OpenYear1 = getValueByKey("OpenYear");
+        CalendarVM.OpenYearOption = getValueByKey("OpenYearOption");
+        CalendarVM.Date1 = getValueByKey("Date");
+        CalendarVM.TypeCaseNum = getValueByKey("TypeCaseNum");
+        CalendarVM.PleaseFillThisField = getValueByKey("PleaseFillThisField");
+        CalendarVM.formDate = getValueByKey("formDate");
+        CalendarVM.untillDate = getValueByKey("untillDate");
+        CalendarVM.ByDateTitle = getValueByKey("ByDateTitle");
+        CalendarVM.SelectconsecutiveDates = getValueByKey("SelectConsecutiveDates");
+        CalendarVM.CompositionTitle = getValueByKey("CompositionTitle");
+        CalendarVM.CompositionOptions = getValueByKey("CompositionOptions").split(';');
+        CalendarVM.ByCaseTitle = getValueByKey("ByCaseTitle");
+        CalendarVM.CaseNum = getValueByKey("CaseNum");
+        CalendarVM.Search = getValueByKey("Search");
+        CalendarVM.MonthNum = getValueByKey("MonthNum").split(';');
+        CalendarVM.OpenMonth = getValueByKey("OpenMonth");
+        CalendarVM.OldOptionDis = getValueByKey("OldOption");
+        CalendarVM.NewOptionDis = getValueByKey("NewOption");
+        ko.applyBindings(CalendarVM, $("#SearchDiscussionsModal")[0]);
+    });
+
+    function resetDiscModel() {
+        $("#SearchDiscussionsModal.reset").click();
+    };
+    function oldNewButtonsDis() {
+       
+
+        document.getElementById("oldDis").onclick = function () {
+           
+           document.getElementById("newDis").style.backgroundColor = "white";
+            document.getElementById("oldDis").style.backgroundColor = "rgb(41, 85, 129)";
+            document.getElementById("newDis").style.color = "rgb(41, 85, 129)";
+            document.getElementById("oldDis").style.color = "white";
+            document.getElementById("monthBoxDis").style.display = "none";
+            document.getElementById('month_process').selectedIndex = "0";
+        }
+
+        document.getElementById("newDis").onclick = function () {
+           
+            document.getElementById("oldDis").style.backgroundColor = "white";
+            document.getElementById("newDis").style.backgroundColor = "rgb(41, 85, 129)";
+            document.getElementById("newDis").style.color = "white";
+            document.getElementById("oldDis").style.color = "rgb(41, 85, 129)";
+            document.getElementById("monthBoxDis").style.display = "block";
+
+        }
+    }
+
+</script>
+
+
+    </body>
+
+    <!-- I started life as an open source Starter Master Page - More Info: http://bit.ly/sp2016-starter-master-pages - RTM Version - March 14, 2016 -->
+
+    
+    
+
+    
+
+      
+        
+        
+        
+
+    
+    <script type="text/javascript">;</script>
+            
+        
+        
+        
+        
+
+
+    <script type='text/javascript'>
+        $(document).on('click', function (e) {
+            var menu_opened = $('#navbarMobile').hasClass('in');
+            if (!$(e.target).closest('#navbarMobile').length &&
+                !$(e.target).is('#navbarMobile') &&
+                menu_opened === true) {
+                $('#navbarMobile').collapse('toggle');
+            }
+        });
+    </script>
+      
+    <script type="text/javascript">
+        var DateFormat = "MM/DD/YYYY HH:mm";
+
+        $(document).on('ready', function () {
+            $(".regular").slick({
+                infinite: false,
+                rtl: true,
+                speed: 300,
+                slidesToShow: 22,
+                slidesToScroll: 1,
+                responsive: [
+        {
+            breakpoint: 1200,
+            settings: {
+                slidesToShow: 16,
+                slidesToScroll: 4,
+            }
+        },
+
+                {
+                    breakpoint: 1025,
+                    settings: {
+                        slidesToShow: 14,
+                        slidesToScroll: 4,
+                    }
+                },
+            {
+                breakpoint: 769,
+                settings: {
+                    slidesToShow: 12,
+                    slidesToScroll: 4
+                }
+            },
+            {
+                breakpoint: 670,
+                settings: {
+                    slidesToShow: 9,
+                    slidesToScroll: 4
+                }
+            },
+            {
+                breakpoint: 520,
+                settings: {
+                    slidesToShow: 6,
+                    slidesToScroll: 4
+                }
+            },
+
+            {
+                breakpoint: 400,
+                settings: {
+                    slidesToShow: 4,
+                    slidesToScroll: 1
+                }
+            }
+                ]
+
+            });
+
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).on('ready', function () {
+            $(".regular").slick({
+                infinite: false,
+                rtl: true,
+                speed: 300,
+                slidesToShow: 22,
+                slidesToScroll: 1,
+                responsive: [
+        {
+            breakpoint: 1200,
+            settings: {
+                slidesToShow: 16,
+                slidesToScroll: 4,
+            }
+        },
+
+                {
+                    breakpoint: 1025,
+                    settings: {
+                        slidesToShow: 14,
+                        slidesToScroll: 4,
+                    }
+                },
+            {
+                breakpoint: 769,
+                settings: {
+                    slidesToShow: 12,
+                    slidesToScroll: 4
+                }
+            },
+            {
+                breakpoint: 670,
+                settings: {
+                    slidesToShow: 9,
+                    slidesToScroll: 4
+                }
+            },
+            {
+                breakpoint: 520,
+                settings: {
+                    slidesToShow: 6,
+                    slidesToScroll: 4
+                }
+            },
+
+            {
+                breakpoint: 400,
+                settings: {
+                    slidesToShow: 4,
+                    slidesToScroll: 1
+                }
+            }
+                ]
+
+            });
+
+        });
+    </script>
+
+
+</html>
+2025-11-24 09:33:52,485 WARNING: No search results found; verify selector
+2025-11-24 09:45:16,232 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:45:16,233 INFO: Starting search for decisions on 2025-02-23
+2025-11-24 09:45:16,238 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:45:17,907 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=2025-02-23&CEndDate=2025-02-23&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121555
+2025-11-24 09:45:18,700 INFO: Search request successful
+2025-11-24 09:45:18,732 WARNING: Element with id='outer' not found in page
+2025-11-24 09:50:08,932 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:50:08,932 INFO: Starting search for decisions on 2025-02-23
+2025-11-24 09:50:08,937 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:50:10,259 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=8&COpenDate=2025-02-23&CEndDate=2025-02-23&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121555
+2025-11-24 09:50:11,210 INFO: Search request successful
+2025-11-24 09:50:11,242 WARNING: Results container not found; check site structure or params
+2025-11-24 09:51:05,119 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:51:05,119 INFO: Starting search for decisions on 2025-02-23
+2025-11-24 09:51:05,124 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:51:06,399 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=1&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121511
+2025-11-24 09:51:07,328 INFO: Search request successful
+2025-11-24 09:51:07,348 WARNING: Results container not found; check site structure or params
+2025-11-24 09:51:55,082 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 09:51:55,083 INFO: Starting search for decisions on 2025-02-23 00:00:00
+2025-11-24 09:51:55,087 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 09:51:56,910 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=2025&CaseNumber=null&DateType=1&SearchPeriod=1&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121511
+2025-11-24 09:51:57,716 INFO: Search request successful
+2025-11-24 09:51:57,738 WARNING: Results container not found; check site structure or params
+2025-11-24 10:22:14,204 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 10:22:14,204 INFO: Starting search for decisions on 1990-02-23 00:00:00
+2025-11-24 10:22:14,210 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 10:22:15,804 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=1990&CaseNumber=null&DateType=1&SearchPeriod=1&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121511
+2025-11-24 10:22:16,543 INFO: Search request successful
+2025-11-24 10:22:16,575 WARNING: Results container not found; check site structure or params
+2025-11-24 10:22:52,671 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 10:22:52,672 INFO: Starting search for decisions on 1990-02-23 00:00:00
+2025-11-24 10:22:52,676 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 10:22:53,947 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=1990&CaseNumber=null&DateType=1&SearchPeriod=20&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121514
+2025-11-24 10:22:55,044 INFO: Search request successful
+2025-11-24 10:22:55,076 WARNING: Results container not found; check site structure or params
+2025-11-24 10:26:28,125 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 10:26:28,126 INFO: Starting search for decisions on 1990-02-23 00:00:00
+2025-11-24 10:26:28,131 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 10:26:35,239 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=1990&CaseNumber=null&DateType=1&SearchPeriod=20&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121514
+2025-11-24 10:26:39,304 INFO: Search request successful
+2025-11-24 10:26:39,331 WARNING: Results container not found; check site structure or params
+2025-11-24 10:46:07,484 [INFO] Scraper started...
+2025-11-24 10:46:07,484 [INFO] Requesting search page: https://supreme.court.gov.il/sites/en/Pages/fullsearch.aspx
+2025-11-24 10:46:10,494 [WARNING] ⚠ No results found. The page may be loaded dynamically by JS.
+2025-11-24 10:46:10,494 [WARNING] If you want a fully working scraper, I can generate a Selenium version.
+2025-11-24 10:46:10,496 [INFO] Saved 0 items → results.json
+2025-11-24 10:46:10,496 [INFO] Done.
+2025-11-24 10:49:06,661 DEBUG: HTTP session initialized with retries and headers
+2025-11-24 10:49:06,661 INFO: Starting search for decisions on 1990-02-23 00:00:00
+2025-11-24 10:49:06,666 DEBUG: Starting new HTTPS connection (1): supreme.court.gov.il:443
+2025-11-24 10:49:08,064 DEBUG: https://supreme.court.gov.il:443 "GET /sites/en/Pages/SearchJudgments.aspx?OpenYearDate=1990&CaseNumber=null&DateType=1&SearchPeriod=20&COpenDate=null&CEndDate=null&freeText=null&Importance=null&CaseMonth=2 HTTP/1.1" 200 121514
+2025-11-24 10:49:08,760 INFO: Search request successful
+2025-11-24 10:49:08,778 WARNING: Results container not found; check site structure or params
