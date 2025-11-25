@@ -1,0 +1,100 @@
+{
+  "start_date": "2012-10-10",
+  "end_date": "2015-11-24",
+  "download_timestamp": "2025-11-25T19:06:08.154600",
+  "total_documents": 9,
+  "successful_downloads": 9,
+  "failed_downloads": 0,
+  "documents": [
+    {
+      "case_number": 8665,
+      "decision_date": "2015-08-10",
+      "parties": "Desta v. The Knesset",
+      "document_type": "pdf",
+      "file_size_bytes": 214296,
+      "filename": "8665_2015-08-10_0001",
+      "download_url": "https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=4",
+      "download_status": "success"
+    },
+    {
+      "case_number": 2978,
+      "decision_date": "2015-07-22",
+      "parties": "The Regional Sewage and Water Corporation Ltd. v. Yousef Ahmad Younis",
+      "document_type": "pdf",
+      "file_size_bytes": 501275,
+      "filename": "2978_2015-07-22_0002",
+      "download_url": "https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=4",
+      "download_status": "success"
+    },
+    {
+      "case_number": 687,
+      "decision_date": "2015-07-08",
+      "parties": "Yadid v The Knesset",
+      "document_type": "pdf",
+      "file_size_bytes": 239945,
+      "filename": "687_2015-07-08_0003",
+      "download_url": "https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=4",
+      "download_status": "success"
+    },
+    {
+      "case_number": 4220,
+      "decision_date": "2015-05-13",
+      "parties": "Al-Uqbi v. The State of Israel",
+      "document_type": "pdf",
+      "file_size_bytes": 518426,
+      "filename": "4220_2015-05-13_0004",
+      "download_url": "https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F200%2F042%2Fv29&fileName=12042200.V29&type=4",
+      "download_status": "success"
+    },
+    {
+      "case_number": 5239,
+      "decision_date": "2015-04-14",
+      "parties": "Uri Avnery v. The Knesset",
+      "document_type": "pdf",
+      "file_size_bytes": 177359,
+      "filename": "5239_2015-04-14_0005",
+      "download_url": "https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F11%2F390%2F052%2Fk21&fileName=11052390.K21&type=4",
+      "download_status": "success"
+    },
+    {
+      "case_number": 6706,
+      "decision_date": "2015-02-10",
+      "parties": "MK Hanin Zoabi V. The Knessets Ethics Committee",
+      "document_type": "pdf",
+      "file_size_bytes": 254016,
+      "filename": "6706_2015-02-10_0006",
+      "download_url": "https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F060%2F067%2Fc10&fileName=14067060_c10.txt&type=4",
+      "download_status": "success"
+    },
+    {
+      "case_number": 8273,
+      "decision_date": "2014-12-24",
+      "parties": "The State of Israel  v. Lior Haimovitz",
+      "document_type": "pdf",
+      "file_size_bytes": 288764,
+      "filename": "8273_2014-12-24_0007",
+      "download_url": "https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F730%2F082%2Fo07&fileName=13082730.O07&type=4",
+      "download_status": "success"
+    },
+    {
+      "case_number": 7146,
+      "decision_date": "2013-09-16",
+      "parties": "Neget Adam v. Hkneset",
+      "document_type": "pdf",
+      "file_size_bytes": 98670,
+      "filename": "7146_2013-09-16_0008",
+      "download_url": "https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F460%2F071%2Fb24&fileName=12071460_b24.txt&type=4",
+      "download_status": "success"
+    },
+    {
+      "case_number": 761,
+      "decision_date": "2012-11-29",
+      "parties": "State of Israel v. Makor Rishon Hameuhad (Hatzofe) Ltd.",
+      "document_type": "pdf",
+      "file_size_bytes": 464652,
+      "filename": "761_2012-11-29_0009",
+      "download_url": "https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4",
+      "download_status": "success"
+    }
+  ]
+}

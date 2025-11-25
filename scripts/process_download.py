@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime
 import json
 import os
 import re
@@ -59,6 +59,12 @@ def parse_ms_date(ms_date: str) -> str:
     return datetime.utcfromtimestamp(timestamp).strftime("%Y-%m-%d")
 
 
+def build_download_url(base_url: str, path: str, filename: str, file_type: int) -> str:
+    """Build download URL from components."""
+    params = {"path": path, "fileName": filename, "type": file_type}
+    return f"{base_url}/Home/Download?{urlencode(params)}"
+
+
 def process_documents(
     session: requests.Session, documents: List[Dict], logger, config: Dict[str, Any]
 ) -> List[Dict]:
@@ -67,7 +73,7 @@ def process_documents(
 
     for index, document in enumerate(documents, 1):
         try:
-            result = _process_single_document(session, document, index, logger, config)
+            result = process_single_document(session, document, index, logger, config)
             if result:
                 processed_docs.append(result)
                 time.sleep(1)  # Rate limiting
@@ -79,13 +85,7 @@ def process_documents(
     return processed_docs
 
 
-def build_download_url(base_url: str, path: str, filename: str, file_type: int) -> str:
-    """Build download URL from components."""
-    params = {"path": path, "fileName": filename, "type": file_type}
-    return f"{base_url}/Home/Download?{urlencode(params)}"
-
-
-def _process_single_document(
+def process_single_document(
     session: requests.Session,
     document: Dict,
     index: int,
@@ -113,9 +113,9 @@ def _process_single_document(
         )
         return None
 
-    download_url = build_download_url(config["base_url"], path, filename, file_type)
+    download_url = build_download_url(config["base_url"], path, filename, file_type=4)
     safe_filename = sanitize_filename(f"{case_number}_{decision_date}_{index:04d}")
-    filepath = os.path.join(config["output_dir"], f"{safe_filename}.{extension}")
+    filepath = os.path.join(config["documents_dir"], f"{safe_filename}.{extension}")
 
     logger.info(f"Downloading {safe_filename} from {download_url}")
     success, file_size = download_file(session, download_url, filepath, logger)

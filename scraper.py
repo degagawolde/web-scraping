@@ -1,10 +1,10 @@
 import argparse
-import datetime
+from datetime import datetime
 import os
 
 from scripts.process_download import process_documents, save_metadata
 from scripts.prepare_search import search_documents
-from utils import load_config, setup_logging, setup_session
+from scripts.utility_functions import load_config, setup_logging, setup_session
 
 def scrape_decisions(start_date: str, end_date: str, output_dir: str):
     """Main function to scrape decisions for a given date."""
@@ -17,7 +17,7 @@ def scrape_decisions(start_date: str, end_date: str, output_dir: str):
     # Create documents subdirectory
     documents_dir = os.path.join(output_dir, "documents")
     os.makedirs(documents_dir, exist_ok=True)
-    config["output_dir"] = documents_dir  # Update for document downloads
+    config["documents_dir"] = documents_dir  # Update for document downloads
 
     start_date = datetime.strptime(start_date, "%Y-%m-%d")
     end_date = datetime.strptime(end_date, "%Y-%m-%d")
@@ -28,7 +28,13 @@ def scrape_decisions(start_date: str, end_date: str, output_dir: str):
         return
 
     processed_documents = process_documents(session, documents, logger, config)
-    save_metadata(processed_documents, config, start_date, end_date, logger)
+    save_metadata(
+        processed_documents,
+        config,
+        start_date.strftime("%Y-%m-%d"),
+        end_date.strftime("%Y-%m-%d"),
+        logger,
+    )
 
 
 def main():
