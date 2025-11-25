@@ -1,0 +1,34 @@
+{
+    "date": "2025-11-23",
+    "decision_type": "פסק_דין",
+    "case_type": "",
+    "keywords": "מדינת ישראל",
+    "output_dir": "./output",
+    "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "en-US,en;q=0.9,am;q=0.8",
+            "Content-Type": "application/json;charset=UTF-8",
+            "Origin": "https://supremedecisions.court.gov.il",
+            "Referer": "https://supremedecisions.court.gov.il/Verdicts/Search/2",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+            "sec-ch-ua-mobile": "?0",
+            "Connection": "keep-alive",
+            "DNT": "1",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "same-origin",
+            "Sec-GPC": "1"
+        }
+        ,
+    "cookies": {
+        "ASP.NET_SessionId": "4q3zr3gsggsxd0luyglzxr2j",
+        "TS01a63fac": "01ea5d81071c1b532f0b1dc2cca5601083e1b7defe1d2d3bf1147cb5905e1c9fe293dbcbc1de602edd39a7664f6f3ee571f31bd854",
+        "_gid": "GA1.3.1969703531.1764004714",
+        "_gat_gtag_UA_123491789_1": "1",
+        "_ga_3TT6GE0GYL": "GS2.1.s1764004713$o1$g1$t1764004896$j60$l0$h0",
+        "_ga": "GA1.1.508090864.1764004713",
+        "TSe8600a90027": "08a5af3576ab2000fd12fd24964f63fdb957b7664aebe29fe86e11a3574086ee83541353ffa94c8708788511c6113000b7d8e0761774af90b46355e4cbaf98653d99fd7425233a1bcbb4cb3f72889539f1fccb28e66f2bb9dd2be82dc961687a"
+    },
+    "base_url": "https://supremedecisions.court.gov.il",
+    "search_path": "/Home/SearchVerdicts"
+}

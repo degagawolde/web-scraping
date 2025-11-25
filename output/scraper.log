@@ -1,0 +1,1012 @@
+2025-11-25 15:37:22,135 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-25 15:37:22,135 INFO: Starting search for decisions up to 2025-11-24
+2025-11-25 15:37:22,140 DEBUG: Starting new HTTPS connection (1): supremedecisions.court.gov.il:443
+2025-11-25 15:37:52,144 DEBUG: Incremented Retry for (url='/Home/SearchVerdicts'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2025-11-25 15:37:52,146 WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x103ebcc20>, 'Connection to supremedecisions.court.gov.il timed out. (connect timeout=30)')': /Home/SearchVerdicts
+2025-11-25 15:37:52,146 DEBUG: Starting new HTTPS connection (2): supremedecisions.court.gov.il:443
+2025-11-25 15:38:22,151 DEBUG: Incremented Retry for (url='/Home/SearchVerdicts'): Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2025-11-25 15:38:24,155 WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x103ec0910>, 'Connection to supremedecisions.court.gov.il timed out. (connect timeout=30)')': /Home/SearchVerdicts
+2025-11-25 15:38:24,155 DEBUG: Starting new HTTPS connection (3): supremedecisions.court.gov.il:443
+2025-11-25 15:38:44,105 DEBUG: https://supremedecisions.court.gov.il:443 "POST /Home/SearchVerdicts HTTP/1.1" 200 166715
+2025-11-25 15:38:45,158 INFO: Search request successful (status 200)
+2025-11-25 15:38:45,160 DEBUG: Found 225 documents in search results
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,161 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,162 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,163 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,164 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,165 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,166 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,167 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 INFO: Skipping unsupported file type 'bin' for case 7015
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,168 INFO: Skipping unsupported file type 'bin' for case 4112
+2025-11-25 15:38:45,168 INFO: Skipping unsupported file type 'bin' for case 3451
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 2117
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 3114
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 2936
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 9311
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 727
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 4740
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 3510
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 6924
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 1514
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 5546
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 2026
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 3117
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 3417
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 2390
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 5167
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 8613
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 8613
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 1789
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 4530
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 6601
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 111
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 1113
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 7048
+2025-11-25 15:38:45,169 INFO: Skipping unsupported file type 'bin' for case 6698
+2025-11-25 15:38:45,169 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,170 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,170 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,170 INFO: Skipping unsupported file type 'bin' for case 5100
+2025-11-25 15:38:45,170 INFO: Skipping unsupported file type 'bin' for case 2781
+2025-11-25 15:38:45,170 INFO: Skipping unsupported file type 'bin' for case 6126
+2025-11-25 15:38:45,170 INFO: Skipping unsupported file type 'bin' for case 6024
+2025-11-25 15:38:45,170 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,170 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,170 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,170 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,170 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,170 INFO: Skipping unsupported file type 'bin' for case 5319
+2025-11-25 15:38:45,171 INFO: Skipping unsupported file type 'bin' for case 1684
+2025-11-25 15:38:45,171 INFO: Skipping unsupported file type 'bin' for case 7092
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,171 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,172 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,172 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,172 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,172 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,172 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,172 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 15:38:45,172 INFO: Scraping complete: 0 successful, 0 failed.
+2025-11-25 16:12:58,669 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-25 16:12:58,670 INFO: Starting search for decisions up to 2025-11-24
+2025-11-25 16:12:58,675 DEBUG: Starting new HTTPS connection (1): supremedecisions.court.gov.il:443
+2025-11-25 16:13:01,296 DEBUG: https://supremedecisions.court.gov.il:443 "POST /Home/SearchVerdicts HTTP/1.1" 200 166715
+2025-11-25 16:13:02,628 INFO: Search request successful (status 200)
+2025-11-25 16:13:02,633 DEBUG: Found 225 documents in search results
+2025-11-25 16:13:02,634 INFO: Skipping unsupported file type 'txt' for case 2144
+2025-11-25 16:13:02,634 INFO: Skipping unsupported file type 'txt' for case 2144
+2025-11-25 16:13:02,634 INFO: Skipping unsupported file type 'txt' for case 2109
+2025-11-25 16:13:02,634 INFO: Skipping unsupported file type 'txt' for case 3003
+2025-11-25 16:13:02,634 INFO: Skipping unsupported file type 'txt' for case 2964
+2025-11-25 16:13:02,634 INFO: Skipping unsupported file type 'txt' for case 4374
+2025-11-25 16:13:02,634 INFO: Skipping unsupported file type 'txt' for case 8665
+2025-11-25 16:13:02,634 INFO: Skipping unsupported file type 'txt' for case 2978
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 687
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 4220
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 5239
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 6706
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 8273
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 7146
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 761
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 149
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 1326
+2025-11-25 16:13:02,635 INFO: Skipping unsupported file type 'txt' for case 1758
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 10141
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 10662
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 6298
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 3292
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 9594
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 8887
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 7302
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 1181
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 4908
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 746
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 4525
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 219
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 5492
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 4410
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 4693
+2025-11-25 16:13:02,636 INFO: Skipping unsupported file type 'txt' for case 9241
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 4124
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 4169
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 8485
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 8823
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 2144
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 909
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 2150
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 5512
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 2605
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 2082
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 1067
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 2833
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 7195
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 4243
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 4293
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 7833
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 201
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 10203
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 6902
+2025-11-25 16:13:02,637 INFO: Skipping unsupported file type 'txt' for case 3071
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 4805
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 1617
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 6659
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 6726
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 8035
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 844
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 11487
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 9132
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 845
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 9441
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 5853
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 1272
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 2281
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 5666
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 10843
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 8414
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 6316
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 754
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 8397
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 2887
+2025-11-25 16:13:02,638 INFO: Skipping unsupported file type 'txt' for case 4493
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 258
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 4142
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 1748
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 769
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 8791
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 2557
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 10076
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 8276
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 2232
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 3045
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 11152
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 11339
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 6204
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 9615
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 9593
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 2245
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 7052
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 5121
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 4542
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 8925
+2025-11-25 16:13:02,639 INFO: Skipping unsupported file type 'txt' for case 11163
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 11225
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 9041
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 9135
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 366
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 10697
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 4596
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 3799
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 10064
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 7957
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 4716
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 10828
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 891
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 9264
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 4790
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 5026
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 2597
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 1187
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 9796
+2025-11-25 16:13:02,640 INFO: Skipping unsupported file type 'txt' for case 7862
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 1890
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 10280
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 10280
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 6821
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 9098
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 5261
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 4885
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 5131
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 5258
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 2056
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 953
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 4764
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 5627
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 140
+2025-11-25 16:13:02,641 INFO: Skipping unsupported file type 'txt' for case 10497
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 3202
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 5432
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 6778
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 316
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 1993
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 769
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 11196
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 9232
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 5784
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 92
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 8990
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 10223
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 6860
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 3239
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 6226
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 651
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 3854
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 212
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 3511
+2025-11-25 16:13:02,642 INFO: Skipping unsupported file type 'txt' for case 11243
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 7622
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 5591
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 3278
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 7015
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 7015
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 2599
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 4112
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 3451
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 2117
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 3114
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 2936
+2025-11-25 16:13:02,643 INFO: Skipping unsupported file type 'txt' for case 9311
+2025-11-25 16:13:02,644 INFO: Skipping unsupported file type 'txt' for case 727
+2025-11-25 16:13:02,644 INFO: Skipping unsupported file type 'txt' for case 4740
+2025-11-25 16:13:02,644 INFO: Skipping unsupported file type 'txt' for case 3510
+2025-11-25 16:13:02,644 INFO: Skipping unsupported file type 'txt' for case 6924
+2025-11-25 16:13:02,644 INFO: Skipping unsupported file type 'txt' for case 1514
+2025-11-25 16:13:02,644 INFO: Skipping unsupported file type 'txt' for case 5546
+2025-11-25 16:13:02,644 INFO: Skipping unsupported file type 'txt' for case 2026
+2025-11-25 16:13:02,645 INFO: Skipping unsupported file type 'txt' for case 3117
+2025-11-25 16:13:02,645 INFO: Skipping unsupported file type 'txt' for case 3417
+2025-11-25 16:13:02,645 INFO: Skipping unsupported file type 'txt' for case 2390
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 5167
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 8613
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 8613
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 1789
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 4530
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 6601
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 111
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 1113
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 7048
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 6698
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 4596
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 2034
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 5936
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 5100
+2025-11-25 16:13:02,646 INFO: Skipping unsupported file type 'txt' for case 2781
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 6126
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 6024
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 6024
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 5103
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 3267
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 164
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 3616
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 5319
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 1684
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 7092
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 7092
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 2838
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 7155
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 5016
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 205
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 4804
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 2401
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 4463
+2025-11-25 16:13:02,647 INFO: Skipping unsupported file type 'txt' for case 4541
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 5587
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 4628
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 1074
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 721
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 453
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 1212
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 3798
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 2481
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 506
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 3094
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 4481
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 3912
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 1846
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 532
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 3071
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 6163
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 5973
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 2722
+2025-11-25 16:13:02,648 INFO: Skipping unsupported file type 'txt' for case 30
+2025-11-25 16:13:02,649 INFO: Scraping complete: 0 successful, 0 failed.
+2025-11-25 16:15:17,771 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-25 16:15:17,771 INFO: Starting search for decisions up to 2025-11-24
+2025-11-25 16:15:17,776 DEBUG: Starting new HTTPS connection (1): supremedecisions.court.gov.il:443
+2025-11-25 16:15:20,784 DEBUG: https://supremedecisions.court.gov.il:443 "POST /Home/SearchVerdicts HTTP/1.1" 200 166715
+2025-11-25 16:15:22,115 INFO: Search request successful (status 200)
+2025-11-25 16:15:22,117 DEBUG: Found 225 documents in search results
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 2144
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 2144
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '1'-'txt' for case 2109
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 3003
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 2964
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 4374
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 8665
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 2978
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 687
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 4220
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 5239
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 6706
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 8273
+2025-11-25 16:15:22,117 INFO: Skipping unsupported file type '2'-'txt' for case 7146
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 761
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 149
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 1326
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 1758
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 10141
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 10662
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 6298
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 3292
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 9594
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 8887
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 7302
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 1181
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 4908
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 746
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 4525
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 219
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 5492
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 4410
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 4693
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 9241
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 4124
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 4169
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 8485
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 8823
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 2144
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 909
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 2150
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 5512
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 2605
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 2082
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 1067
+2025-11-25 16:15:22,118 INFO: Skipping unsupported file type '2'-'txt' for case 2833
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 7195
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 4243
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 4293
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 7833
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 201
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 10203
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 6902
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 3071
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 4805
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 1617
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 6659
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 6726
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 8035
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 844
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 11487
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 9132
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 845
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 9441
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 5853
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 1272
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 2281
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 5666
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 10843
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 8414
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 6316
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 754
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 8397
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 2887
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 4493
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 258
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 4142
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 1748
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 769
+2025-11-25 16:15:22,119 INFO: Skipping unsupported file type '2'-'txt' for case 8791
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 2557
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 10076
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 8276
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 2232
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 3045
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 11152
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 11339
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 6204
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 9615
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 9593
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 2245
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 7052
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 5121
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 4542
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 8925
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 11163
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 11225
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '1'-'txt' for case 9041
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 9135
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '2'-'txt' for case 366
+2025-11-25 16:15:22,120 INFO: Skipping unsupported file type '1'-'txt' for case 10697
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 4596
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 3799
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 10064
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 7957
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 4716
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 10828
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '1'-'txt' for case 891
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 9264
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 4790
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 5026
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 2597
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 1187
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 9796
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 7862
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 1890
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '1'-'txt' for case 10280
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 10280
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 6821
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 9098
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 5261
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 4885
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 5131
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 5258
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 2056
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 953
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 4764
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 5627
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 140
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 10497
+2025-11-25 16:15:22,121 INFO: Skipping unsupported file type '2'-'txt' for case 3202
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 5432
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 6778
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 316
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 1993
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 769
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 11196
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 9232
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 5784
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 92
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 8990
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 10223
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 6860
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 3239
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 6226
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 651
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 3854
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 212
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '1'-'txt' for case 3511
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 11243
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 7622
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 5591
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 3278
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 7015
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 7015
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 2599
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '1'-'txt' for case 4112
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 3451
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 2117
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 3114
+2025-11-25 16:15:22,122 INFO: Skipping unsupported file type '2'-'txt' for case 2936
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 9311
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 727
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 4740
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 3510
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 6924
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 1514
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 5546
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 2026
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 3117
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 3417
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 2390
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 5167
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '1'-'txt' for case 8613
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 8613
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 1789
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 4530
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 6601
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '1'-'txt' for case 111
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 1113
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 7048
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 6698
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 4596
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 2034
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 5936
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 5100
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 2781
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 6126
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 6024
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 6024
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 5103
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 3267
+2025-11-25 16:15:22,123 INFO: Skipping unsupported file type '2'-'txt' for case 164
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 3616
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 5319
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 1684
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 7092
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 7092
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 2838
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 7155
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 5016
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 205
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 4804
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 2401
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 4463
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 4541
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 5587
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 4628
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 1074
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 721
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 453
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 1212
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 3798
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 2481
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 506
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 3094
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 4481
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 3912
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 1846
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 532
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 3071
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 6163
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 5973
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 2722
+2025-11-25 16:15:22,124 INFO: Skipping unsupported file type '2'-'txt' for case 30
+2025-11-25 16:15:22,125 INFO: Scraping complete: 0 successful, 0 failed.
+2025-11-25 16:17:12,469 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-25 16:17:12,469 INFO: Starting search for decisions up to 2025-11-24
+2025-11-25 16:17:12,473 DEBUG: Starting new HTTPS connection (1): supremedecisions.court.gov.il:443
+2025-11-25 16:17:14,284 DEBUG: https://supremedecisions.court.gov.il:443 "POST /Home/SearchVerdicts HTTP/1.1" 200 166715
+2025-11-25 16:17:16,362 INFO: Search request successful (status 200)
+2025-11-25 16:17:16,367 DEBUG: Found 225 documents in search results
+2025-11-25 16:17:16,368 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,369 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,369 INFO: Skipping unsupported file type '1'-'txt' for case 2109
+2025-11-25 16:17:16,369 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,369 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,369 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,369 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,369 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,370 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,370 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,370 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,370 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,370 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,370 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,370 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,370 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,370 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,371 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,372 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,373 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,374 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,374 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,374 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,374 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,374 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,374 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,374 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,374 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,374 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,375 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,376 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,377 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,377 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,377 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,377 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,377 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,377 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,378 INFO: Skipping unsupported file type '1'-'txt' for case 9041
+2025-11-25 16:17:16,378 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,378 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,379 INFO: Skipping unsupported file type '1'-'txt' for case 10697
+2025-11-25 16:17:16,379 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,379 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 INFO: Skipping unsupported file type '1'-'txt' for case 891
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,380 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 INFO: Skipping unsupported file type '1'-'txt' for case 10280
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,381 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,382 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 INFO: Skipping unsupported file type '1'-'txt' for case 3511
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,383 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 INFO: Skipping unsupported file type '1'-'txt' for case 4112
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,384 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 INFO: Skipping unsupported file type '1'-'txt' for case 8613
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 INFO: Skipping unsupported file type '1'-'txt' for case 111
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,385 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,386 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,387 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,388 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,388 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,388 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,388 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,388 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,388 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,388 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,388 ERROR: Error processing document: expected str, bytes or os.PathLike object, not NoneType
+2025-11-25 16:17:16,389 INFO: Scraping complete: 0 successful, 0 failed.
+2025-11-25 16:26:34,498 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-25 16:26:34,498 INFO: Starting search for decisions up to 2025-11-24
+2025-11-25 16:26:34,503 DEBUG: Starting new HTTPS connection (1): supremedecisions.court.gov.il:443
+2025-11-25 16:26:36,694 DEBUG: https://supremedecisions.court.gov.il:443 "POST /Home/SearchVerdicts HTTP/1.1" 200 166715
+2025-11-25 16:26:38,302 INFO: Search request successful (status 200)
+2025-11-25 16:26:38,305 DEBUG: Found 225 documents in search results
+2025-11-25 16:26:38,306 INFO: Downloading 2144_2020-03-24_0001pdf from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=2
+2025-11-25 16:26:38,306 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=2
+2025-11-25 16:26:39,030 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=2 HTTP/1.1" 200 157197
+2025-11-25 16:26:47,397 INFO: Downloaded file saved to ./output/2144_2020-03-24_0001pdf (size: 157197 bytes)
+2025-11-25 16:26:48,399 INFO: Downloading 2144_2020-03-22_0002pdf from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=2
+2025-11-25 16:26:48,399 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=2
+2025-11-25 16:26:48,834 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=2 HTTP/1.1" 200 301502
+2025-11-25 16:27:07,071 INFO: Downloaded file saved to ./output/2144_2020-03-22_0002pdf (size: 301502 bytes)
+2025-11-25 16:27:08,077 INFO: Skipping unsupported file type '1'-'txt' for case 2109
+2025-11-25 16:27:08,078 INFO: Downloading 3003_2018-05-23_0003pdf from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F030%2F030%2Fk08&fileName=18030030.K08&type=2
+2025-11-25 16:27:08,078 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F030%2F030%2Fk08&fileName=18030030.K08&type=2
+2025-11-25 16:27:08,351 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F18%2F030%2F030%2Fk08&fileName=18030030.K08&type=2 HTTP/1.1" 200 393009
+2025-11-25 16:35:39,801 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-25 16:35:39,801 INFO: Starting search for decisions up to 2025-11-24
+2025-11-25 16:35:39,806 DEBUG: Starting new HTTPS connection (1): supremedecisions.court.gov.il:443
+2025-11-25 16:35:41,668 DEBUG: https://supremedecisions.court.gov.il:443 "POST /Home/SearchVerdicts HTTP/1.1" 200 166715
+2025-11-25 16:35:47,470 INFO: Search request successful (status 200)
+2025-11-25 16:35:47,472 DEBUG: Found 225 documents in search results
+2025-11-25 16:35:47,473 INFO: Downloading 2144_2020-03-24_0001 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=2
+2025-11-25 16:35:47,473 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=2
+2025-11-25 16:35:47,740 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=2 HTTP/1.1" 200 157197
+2025-11-25 16:35:53,614 INFO: Downloaded file saved to ./output/2144_2020-03-24_0001.pdf (size: 157197 bytes)
+2025-11-25 16:35:54,618 INFO: Downloading 2144_2020-03-22_0002 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=2
+2025-11-25 16:35:54,618 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=2
+2025-11-25 16:35:54,985 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=2 HTTP/1.1" 200 301502
+2025-11-25 16:36:09,950 INFO: Downloaded file saved to ./output/2144_2020-03-22_0002.pdf (size: 301502 bytes)
+2025-11-25 16:36:10,952 INFO: Skipping unsupported file type '1'-'txt' for case 2109
+2025-11-25 16:36:10,952 INFO: Downloading 3003_2018-05-23_0003 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F030%2F030%2Fk08&fileName=18030030.K08&type=2
+2025-11-25 16:36:10,952 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F030%2F030%2Fk08&fileName=18030030.K08&type=2
+2025-11-25 16:36:11,261 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F18%2F030%2F030%2Fk08&fileName=18030030.K08&type=2 HTTP/1.1" 200 393009
+2025-11-25 16:36:26,350 INFO: Downloaded file saved to ./output/3003_2018-05-23_0003.pdf (size: 393009 bytes)
+2025-11-25 16:36:27,357 INFO: Downloading 2964_2018-04-16_0004 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F640%2F029%2Fv03&fileName=18029640.V03&type=2
+2025-11-25 16:36:27,357 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F640%2F029%2Fv03&fileName=18029640.V03&type=2
+2025-11-25 16:36:27,670 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F18%2F640%2F029%2Fv03&fileName=18029640.V03&type=2 HTTP/1.1" 200 172732
+2025-11-25 16:36:33,910 INFO: Downloaded file saved to ./output/2964_2018-04-16_0004.pdf (size: 172732 bytes)
+2025-11-25 16:36:34,916 INFO: Downloading 4374_2016-03-26_0005 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F740%2F043%2Ft63&fileName=15043740.T63&type=2
+2025-11-25 16:36:34,916 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F740%2F043%2Ft63&fileName=15043740.T63&type=2
+2025-11-25 16:36:35,185 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F15%2F740%2F043%2Ft63&fileName=15043740.T63&type=2 HTTP/1.1" 200 96072
+2025-11-25 16:36:39,708 INFO: Downloaded file saved to ./output/4374_2016-03-26_0005.pdf (size: 96072 bytes)
+2025-11-25 16:36:40,713 INFO: Downloading 8665_2015-08-10_0006 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=2
+2025-11-25 16:36:40,714 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=2
+2025-11-25 16:36:41,143 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=2 HTTP/1.1" 200 120293
+2025-11-25 16:36:47,636 INFO: Downloaded file saved to ./output/8665_2015-08-10_0006.pdf (size: 120293 bytes)
+2025-11-25 16:36:48,642 INFO: Downloading 2978_2015-07-22_0007 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=2
+2025-11-25 16:36:48,642 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=2
+2025-11-25 16:36:49,083 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=2 HTTP/1.1" 200 421616
+2025-11-25 16:37:02,935 INFO: Downloaded file saved to ./output/2978_2015-07-22_0007.pdf (size: 421616 bytes)
+2025-11-25 16:37:03,938 INFO: Downloading 687_2015-07-08_0008 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=2
+2025-11-25 16:37:03,938 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=2
+2025-11-25 16:37:04,204 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=2 HTTP/1.1" 200 341063
+2025-11-25 16:37:08,780 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-25 16:37:08,780 INFO: Starting search for decisions up to 2025-11-24
+2025-11-25 16:37:08,785 DEBUG: Starting new HTTPS connection (1): supremedecisions.court.gov.il:443
+2025-11-25 16:37:10,357 DEBUG: https://supremedecisions.court.gov.il:443 "POST /Home/SearchVerdicts HTTP/1.1" 200 166715
+2025-11-25 16:37:11,706 INFO: Search request successful (status 200)
+2025-11-25 16:37:11,712 DEBUG: Found 225 documents in search results
+2025-11-25 16:37:11,713 INFO: Downloading 2144_2020-03-24_0001 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=4
+2025-11-25 16:37:11,713 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=4
+2025-11-25 16:37:12,027 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=4 HTTP/1.1" 200 144741
+2025-11-25 16:37:12,698 INFO: Downloaded file saved to ./output/2144_2020-03-24_0001.pdf (size: 144741 bytes)
+2025-11-25 16:37:13,704 INFO: Downloading 2144_2020-03-22_0002 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=4
+2025-11-25 16:37:13,704 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=4
+2025-11-25 16:37:14,023 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=4 HTTP/1.1" 200 227293
+2025-11-25 16:37:15,197 INFO: Downloaded file saved to ./output/2144_2020-03-22_0002.pdf (size: 227293 bytes)
+2025-11-25 16:37:16,203 INFO: Skipping unsupported file type '1'-'txt' for case 2109
+2025-11-25 16:37:16,203 INFO: Downloading 3003_2018-05-23_0003 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F030%2F030%2Fk08&fileName=18030030.K08&type=4
+2025-11-25 16:37:16,203 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F030%2F030%2Fk08&fileName=18030030.K08&type=4
+2025-11-25 16:37:16,452 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F18%2F030%2F030%2Fk08&fileName=18030030.K08&type=4 HTTP/1.1" 200 357972
+2025-11-25 16:37:39,638 INFO: Downloaded file saved to ./output/3003_2018-05-23_0003.pdf (size: 357972 bytes)
+2025-11-25 16:37:40,640 INFO: Downloading 2964_2018-04-16_0004 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F640%2F029%2Fv03&fileName=18029640.V03&type=4
+2025-11-25 16:37:40,640 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F18%2F640%2F029%2Fv03&fileName=18029640.V03&type=4
+2025-11-25 16:37:40,994 DEBUG: https://supremedecisions.court.gov.il:443 "GET /Home/Download?path=EnglishVerdicts%2F18%2F640%2F029%2Fv03&fileName=18029640.V03&type=4 HTTP/1.1" 200 164082
