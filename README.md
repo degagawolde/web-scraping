@@ -24,11 +24,23 @@ Israeli Supreme Court website for a **single day** using **HTTP requests only**.
   - `metadata.json`
   - `download_log.txt`
 
----
+## Project Structure
+
+**1. `scripts/`**
+
+* **`prepare_search.py`** – Prepare the payload using the intput from command line and peform search.
+* **`process_download.py`** – Peforms extraction, sanitization and saving the documents and meta data.
+* **`utility_functions.py`** – Contains functions that are used for session, logger, and config setup.
+
+**2. `scraper.py`** - Runs the entire pipeline end-to-end, including searching, processing, and downloading.
+
+**3. `output/`** - Stores all downloaded documents, meta data, and logs.
 
 ## Installation
 
 ```bash
+python3 -m venv env
+source env/bin/activate
 pip install -r requirements.txt
 ```
 
