@@ -97,6 +97,8 @@ def process_single_document(
     ms_date = document.get("VerdictDt")
     decision_date = parse_ms_date(ms_date)
     case_name = document.get("CaseName", "")
+    decision_type = document.get("Type","")
+    case_name = document.get("CaseName","")
 
     path = document.get("PathForWeb")
     filename = document.get("FileName")
@@ -125,10 +127,14 @@ def process_single_document(
         "decision_date": decision_date,
         "parties": case_name,
         "document_type": extension,
+        "decision_type":decision_date,
+        "case_type":decision_date,
         "file_size_bytes": file_size,
         "filename": safe_filename,
         "download_url": download_url,
         "download_status": "success" if success else "failed",
+        "decision_type":decision_type,
+        "case_name":case_name
     }
 
 

@@ -1,11 +1,17 @@
 from datetime import datetime
 import json
-from typing import Any, Dict
+from typing import Any, Dict, List
 from urllib.parse import urljoin
 import requests
 
 
-def prepare_search_payload(start_date: datetime, end_date: datetime) -> Dict[str, Any]:
+def prepare_search_payload(
+    start_date: datetime,
+    end_date: datetime,
+    decision_type: List[int],
+    case_type: List[int],
+    keywords: str,
+) -> Dict[str, Any]:
     """Prepare search payload for the API request."""
     return {
         "document": {
@@ -14,12 +20,14 @@ def prepare_search_payload(start_date: datetime, end_date: datetime) -> Dict[str
             "dateType": 2,
             "publishDate": 8,
             "translationDateType": 1,
-            "translationPublishFrom": "2025-10-24T17:21:39.185Z",
-            "translationPublishTo": "2025-11-24T17:21:39.185Z",
+            "translationPublishFrom": start_date.isoformat() + "Z",
+            "translationPublishTo": end_date.isoformat() + "Z",
             "translationPublishDate": 8,
+            "CodeTypes": [d_type for d_type in decision_type],
+            "CodeMador": [c_type for c_type in case_type],
             "SearchText": [
                 {
-                    "Text": "",
+                    "Text": keywords,
                     "textOperator": 1,
                     "option": "2",
                     "Inverted": False,
@@ -27,31 +35,6 @@ def prepare_search_payload(start_date: datetime, end_date: datetime) -> Dict[str
                     "NearDistance": 3,
                     "MatchOrder": False,
                 }
-            ],
-            "Parties": [
-                {
-                    "Text": "",
-                    "textOperator": 2,
-                    "option": "2",
-                    "Inverted": False,
-                    "Synonym": False,
-                    "NearDistance": 3,
-                    "MatchOrder": False,
-                }
-            ],
-            "Counsel": [
-                {
-                    "Text": "",
-                    "textOperator": 2,
-                    "option": "2",
-                    "Inverted": False,
-                    "Synonym": False,
-                    "NearDistance": 3,
-                    "MatchOrder": False,
-                }
-            ],
-            "AllSubjects": [
-                {"Subject": None, "SubSubject": None, "SubSubSubject": None}
             ],
             "Old": False,
             "JudgesOperator": 2,
@@ -66,10 +49,13 @@ def search_documents(
     config: dict,
     start_date: datetime,
     end_date: datetime,
+    decision_type: List[int],
+    case_type: List[int],
+    keywords: List[str],
     logger,
 ) -> list:
     """Perform document search and return results."""
-    payload = prepare_search_payload(start_date, end_date)
+    payload = prepare_search_payload(start_date, end_date,decision_type,case_type,keywords)
     search_url = urljoin(config["base_url"], config["search_path"])
 
     logger.info(

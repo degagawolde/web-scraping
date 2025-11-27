@@ -30,3 +30,202 @@
 2025-11-25 19:06:02,979 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4
 2025-11-25 19:06:07,150 INFO: Downloaded file saved to ./output/documents/761_2012-11-29_0009.pdf (size: 464652 bytes)
 2025-11-25 19:06:08,155 INFO: Scraping complete: 9 successful, 0 failed
+2025-11-27 11:33:42,013 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 11:38:56,918 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 11:38:56,919 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 11:38:57,487 INFO: Search request successful (status 200)
+2025-11-27 11:38:57,487 ERROR: Search request failed: Expecting value: line 1 column 1 (char 0)
+2025-11-27 11:38:57,490 INFO: No documents found for the specified criteria
+2025-11-27 11:39:35,674 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 11:39:35,676 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 11:39:36,138 INFO: Search request successful (status 200)
+2025-11-27 11:39:36,138 ERROR: Search request failed: Expecting value: line 1 column 1 (char 0)
+2025-11-27 11:39:36,141 INFO: No documents found for the specified criteria
+2025-11-27 11:39:53,445 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 11:39:53,447 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 11:39:54,681 INFO: Search request successful (status 200)
+2025-11-27 11:39:54,682 INFO: Found 9 documents in search results
+2025-11-27 11:39:54,682 INFO: Downloading 8665_2015-08-10_0001 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=4
+2025-11-27 11:39:54,682 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=4
+2025-11-27 11:39:57,637 INFO: Downloaded file saved to ./output/documents/8665_2015-08-10_0001.pdf (size: 214296 bytes)
+2025-11-27 11:39:58,643 INFO: Downloading 2978_2015-07-22_0002 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=4
+2025-11-27 11:39:58,644 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=4
+2025-11-27 11:40:03,087 INFO: Downloaded file saved to ./output/documents/2978_2015-07-22_0002.pdf (size: 501275 bytes)
+2025-11-27 11:40:04,093 INFO: Downloading 687_2015-07-08_0003 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=4
+2025-11-27 11:40:04,093 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=4
+2025-11-27 11:40:05,863 INFO: Downloaded file saved to ./output/documents/687_2015-07-08_0003.pdf (size: 239945 bytes)
+2025-11-27 11:40:06,867 INFO: Downloading 4220_2015-05-13_0004 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F200%2F042%2Fv29&fileName=12042200.V29&type=4
+2025-11-27 11:40:06,868 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F200%2F042%2Fv29&fileName=12042200.V29&type=4
+2025-11-27 11:40:13,133 INFO: Downloaded file saved to ./output/documents/4220_2015-05-13_0004.pdf (size: 518426 bytes)
+2025-11-27 11:40:14,136 INFO: Downloading 5239_2015-04-14_0005 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F11%2F390%2F052%2Fk21&fileName=11052390.K21&type=4
+2025-11-27 11:40:14,136 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F11%2F390%2F052%2Fk21&fileName=11052390.K21&type=4
+2025-11-27 11:40:15,607 INFO: Downloaded file saved to ./output/documents/5239_2015-04-14_0005.pdf (size: 177359 bytes)
+2025-11-27 11:40:16,613 INFO: Downloading 6706_2015-02-10_0006 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F060%2F067%2Fc10&fileName=14067060_c10.txt&type=4
+2025-11-27 11:40:16,613 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F060%2F067%2Fc10&fileName=14067060_c10.txt&type=4
+2025-11-27 11:40:19,168 INFO: Downloaded file saved to ./output/documents/6706_2015-02-10_0006.pdf (size: 254016 bytes)
+2025-11-27 11:40:20,174 INFO: Downloading 8273_2014-12-24_0007 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F730%2F082%2Fo07&fileName=13082730.O07&type=4
+2025-11-27 11:40:20,174 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F730%2F082%2Fo07&fileName=13082730.O07&type=4
+2025-11-27 11:40:22,339 INFO: Downloaded file saved to ./output/documents/8273_2014-12-24_0007.pdf (size: 288764 bytes)
+2025-11-27 11:40:23,345 INFO: Downloading 7146_2013-09-16_0008 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F460%2F071%2Fb24&fileName=12071460_b24.txt&type=4
+2025-11-27 11:40:23,345 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F460%2F071%2Fb24&fileName=12071460_b24.txt&type=4
+2025-11-27 11:40:24,027 INFO: Downloaded file saved to ./output/documents/7146_2013-09-16_0008.pdf (size: 98670 bytes)
+2025-11-27 11:40:25,033 INFO: Downloading 761_2012-11-29_0009 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4
+2025-11-27 11:40:25,033 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4
+2025-11-27 11:40:31,224 INFO: Downloaded file saved to ./output/documents/761_2012-11-29_0009.pdf (size: 464652 bytes)
+2025-11-27 11:40:32,233 INFO: Scraping complete: 9 successful, 0 failed
+2025-11-27 11:56:08,958 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 11:56:08,959 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 11:56:10,917 INFO: Search request successful (status 200)
+2025-11-27 11:56:10,918 INFO: Found 0 documents in search results
+2025-11-27 11:56:10,918 INFO: No documents found for the specified criteria
+2025-11-27 11:56:25,818 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 11:56:25,819 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 11:56:26,269 INFO: Search request successful (status 200)
+2025-11-27 11:56:26,270 ERROR: Search request failed: Expecting value: line 1 column 1 (char 0)
+2025-11-27 11:56:26,273 INFO: No documents found for the specified criteria
+2025-11-27 11:57:33,560 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 11:57:33,561 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 11:57:34,013 INFO: Search request successful (status 200)
+2025-11-27 11:57:34,013 ERROR: Search request failed: Expecting value: line 1 column 1 (char 0)
+2025-11-27 11:57:34,016 INFO: No documents found for the specified criteria
+2025-11-27 11:59:07,823 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 11:59:07,825 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 11:59:08,264 INFO: Search request successful (status 200)
+2025-11-27 11:59:08,264 INFO: Found 0 documents in search results
+2025-11-27 11:59:08,264 INFO: No documents found for the specified criteria
+2025-11-27 12:00:41,586 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 12:00:41,587 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 12:00:42,052 INFO: Search request successful (status 200)
+2025-11-27 12:00:42,052 INFO: Found 0 documents in search results
+2025-11-27 12:00:42,052 INFO: No documents found for the specified criteria
+2025-11-27 12:00:59,396 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 12:00:59,397 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 12:00:59,828 INFO: Search request successful (status 200)
+2025-11-27 12:00:59,828 INFO: Found 0 documents in search results
+2025-11-27 12:00:59,828 INFO: No documents found for the specified criteria
+2025-11-27 12:04:31,495 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 12:04:31,496 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 12:04:31,982 INFO: Search request successful (status 200)
+2025-11-27 12:04:31,982 INFO: Found 0 documents in search results
+2025-11-27 12:04:31,982 INFO: No documents found for the specified criteria
+2025-11-27 12:04:54,470 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 12:04:54,472 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 12:04:54,932 INFO: Search request successful (status 200)
+2025-11-27 12:04:54,932 INFO: Found 0 documents in search results
+2025-11-27 12:04:54,933 INFO: No documents found for the specified criteria
+2025-11-27 12:15:16,720 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 12:15:16,722 INFO: Searching for decisions from 1990-10-10 up to 2025-11-24
+2025-11-27 12:15:17,327 INFO: Search request successful (status 200)
+2025-11-27 12:15:17,327 INFO: Found 0 documents in search results
+2025-11-27 12:15:17,327 INFO: No documents found for the specified criteria
+2025-11-27 13:25:52,703 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 13:25:52,705 INFO: Searching for decisions from 1990-10-10 up to 2025-11-24
+2025-11-27 13:25:54,583 INFO: Search request successful (status 200)
+2025-11-27 13:25:54,586 INFO: Found 208 documents in search results
+2025-11-27 13:25:54,587 INFO: Downloading 2144_2020-03-24_0001 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=4
+2025-11-27 13:25:54,587 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv26&fileName=20021440.V26&type=4
+2025-11-27 13:25:55,260 INFO: Downloaded file saved to ./output/documents/2144_2020-03-24_0001.pdf (size: 144741 bytes)
+2025-11-27 13:25:56,265 INFO: Downloading 2144_2020-03-22_0002 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=4
+2025-11-27 13:25:56,266 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F20%2F440%2F021%2Fv14&fileName=20021440.V14&type=4
+2025-11-27 13:26:22,830 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 13:26:22,831 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 13:26:23,274 INFO: Search request successful (status 200)
+2025-11-27 13:26:23,274 INFO: Found 9 documents in search results
+2025-11-27 13:26:23,275 INFO: Downloading 8665_2015-08-10_0001 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=4
+2025-11-27 13:26:23,275 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=4
+2025-11-27 13:26:24,304 INFO: Downloaded file saved to ./output/documents/8665_2015-08-10_0001.pdf (size: 214296 bytes)
+2025-11-27 13:26:25,310 INFO: Downloading 2978_2015-07-22_0002 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=4
+2025-11-27 13:26:25,310 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=4
+2025-11-27 13:26:27,656 INFO: Downloaded file saved to ./output/documents/2978_2015-07-22_0002.pdf (size: 501275 bytes)
+2025-11-27 13:26:28,660 INFO: Downloading 687_2015-07-08_0003 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=4
+2025-11-27 13:26:28,660 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=4
+2025-11-27 13:26:29,191 INFO: Downloaded file saved to ./output/documents/687_2015-07-08_0003.pdf (size: 239945 bytes)
+2025-11-27 13:26:30,193 INFO: Downloading 4220_2015-05-13_0004 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F200%2F042%2Fv29&fileName=12042200.V29&type=4
+2025-11-27 13:26:30,193 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F200%2F042%2Fv29&fileName=12042200.V29&type=4
+2025-11-27 13:26:35,357 INFO: Downloaded file saved to ./output/documents/4220_2015-05-13_0004.pdf (size: 518426 bytes)
+2025-11-27 13:26:36,362 INFO: Downloading 5239_2015-04-14_0005 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F11%2F390%2F052%2Fk21&fileName=11052390.K21&type=4
+2025-11-27 13:26:36,363 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F11%2F390%2F052%2Fk21&fileName=11052390.K21&type=4
+2025-11-27 13:26:37,286 INFO: Downloaded file saved to ./output/documents/5239_2015-04-14_0005.pdf (size: 177359 bytes)
+2025-11-27 13:26:38,287 INFO: Downloading 6706_2015-02-10_0006 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F060%2F067%2Fc10&fileName=14067060_c10.txt&type=4
+2025-11-27 13:26:38,287 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F060%2F067%2Fc10&fileName=14067060_c10.txt&type=4
+2025-11-27 13:26:40,878 INFO: Downloaded file saved to ./output/documents/6706_2015-02-10_0006.pdf (size: 254016 bytes)
+2025-11-27 13:26:41,883 INFO: Downloading 8273_2014-12-24_0007 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F730%2F082%2Fo07&fileName=13082730.O07&type=4
+2025-11-27 13:26:41,884 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F730%2F082%2Fo07&fileName=13082730.O07&type=4
+2025-11-27 13:26:42,938 INFO: Downloaded file saved to ./output/documents/8273_2014-12-24_0007.pdf (size: 288764 bytes)
+2025-11-27 13:26:43,944 INFO: Downloading 7146_2013-09-16_0008 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F460%2F071%2Fb24&fileName=12071460_b24.txt&type=4
+2025-11-27 13:26:43,944 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F460%2F071%2Fb24&fileName=12071460_b24.txt&type=4
+2025-11-27 13:26:44,615 INFO: Downloaded file saved to ./output/documents/7146_2013-09-16_0008.pdf (size: 98670 bytes)
+2025-11-27 13:26:45,619 INFO: Downloading 761_2012-11-29_0009 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4
+2025-11-27 13:26:45,619 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4
+2025-11-27 13:26:47,400 INFO: Downloaded file saved to ./output/documents/761_2012-11-29_0009.pdf (size: 464652 bytes)
+2025-11-27 13:26:48,405 INFO: Scraping complete: 9 successful, 0 failed
+2025-11-27 13:28:16,007 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 13:28:16,008 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 13:28:16,451 INFO: Search request successful (status 200)
+2025-11-27 13:28:16,451 INFO: Found 0 documents in search results
+2025-11-27 13:28:16,451 INFO: No documents found for the specified criteria
+2025-11-27 13:51:41,162 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 13:51:41,164 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 13:51:44,374 INFO: Search request successful (status 200)
+2025-11-27 13:51:44,375 INFO: Found 0 documents in search results
+2025-11-27 13:51:44,375 INFO: No documents found for the specified criteria
+2025-11-27 13:52:05,461 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 13:52:05,462 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 13:52:05,911 INFO: Search request successful (status 200)
+2025-11-27 13:52:05,911 INFO: Found 0 documents in search results
+2025-11-27 13:52:05,912 INFO: No documents found for the specified criteria
+2025-11-27 13:52:12,067 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 13:52:12,068 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 13:52:12,526 INFO: Search request successful (status 200)
+2025-11-27 13:52:12,526 INFO: Found 9 documents in search results
+2025-11-27 13:52:12,527 INFO: Downloading 8665_2015-08-10_0001 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=4
+2025-11-27 13:52:12,527 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=4
+2025-11-27 13:52:14,914 INFO: Downloaded file saved to ./output/documents/8665_2015-08-10_0001.pdf (size: 214296 bytes)
+2025-11-27 13:52:15,919 INFO: Downloading 2978_2015-07-22_0002 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=4
+2025-11-27 13:52:15,920 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=4
+2025-11-27 13:52:24,523 INFO: Downloaded file saved to ./output/documents/2978_2015-07-22_0002.pdf (size: 501275 bytes)
+2025-11-27 13:52:25,525 INFO: Downloading 687_2015-07-08_0003 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=4
+2025-11-27 13:52:25,526 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F15%2F870%2F006%2Fo10&fileName=15006870.O10&type=4
+2025-11-27 13:52:28,726 INFO: Downloaded file saved to ./output/documents/687_2015-07-08_0003.pdf (size: 239945 bytes)
+2025-11-27 13:52:29,731 INFO: Downloading 4220_2015-05-13_0004 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F200%2F042%2Fv29&fileName=12042200.V29&type=4
+2025-11-27 13:52:29,731 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F200%2F042%2Fv29&fileName=12042200.V29&type=4
+2025-11-27 13:52:35,048 INFO: Downloaded file saved to ./output/documents/4220_2015-05-13_0004.pdf (size: 518426 bytes)
+2025-11-27 13:52:36,054 INFO: Downloading 5239_2015-04-14_0005 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F11%2F390%2F052%2Fk21&fileName=11052390.K21&type=4
+2025-11-27 13:52:36,054 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F11%2F390%2F052%2Fk21&fileName=11052390.K21&type=4
+2025-11-27 13:52:38,425 INFO: Downloaded file saved to ./output/documents/5239_2015-04-14_0005.pdf (size: 177359 bytes)
+2025-11-27 13:52:39,428 INFO: Downloading 6706_2015-02-10_0006 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F060%2F067%2Fc10&fileName=14067060_c10.txt&type=4
+2025-11-27 13:52:39,429 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F060%2F067%2Fc10&fileName=14067060_c10.txt&type=4
+2025-11-27 13:52:43,099 INFO: Downloaded file saved to ./output/documents/6706_2015-02-10_0006.pdf (size: 254016 bytes)
+2025-11-27 13:52:44,103 INFO: Downloading 8273_2014-12-24_0007 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F730%2F082%2Fo07&fileName=13082730.O07&type=4
+2025-11-27 13:52:44,103 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F730%2F082%2Fo07&fileName=13082730.O07&type=4
+2025-11-27 13:52:46,874 INFO: Downloaded file saved to ./output/documents/8273_2014-12-24_0007.pdf (size: 288764 bytes)
+2025-11-27 13:52:47,877 INFO: Downloading 7146_2013-09-16_0008 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F460%2F071%2Fb24&fileName=12071460_b24.txt&type=4
+2025-11-27 13:52:47,878 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F460%2F071%2Fb24&fileName=12071460_b24.txt&type=4
+2025-11-27 13:52:48,689 INFO: Downloaded file saved to ./output/documents/7146_2013-09-16_0008.pdf (size: 98670 bytes)
+2025-11-27 13:52:49,695 INFO: Downloading 761_2012-11-29_0009 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4
+2025-11-27 13:52:49,695 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4
+2025-11-27 13:53:01,614 INFO: Downloaded file saved to ./output/documents/761_2012-11-29_0009.pdf (size: 464652 bytes)
+2025-11-27 13:53:02,622 INFO: Scraping complete: 9 successful, 0 failed
+2025-11-27 13:55:35,775 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 13:55:35,777 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 13:55:36,642 INFO: Search request successful (status 200)
+2025-11-27 13:55:36,643 INFO: Found 9 documents in search results
+2025-11-27 13:55:36,644 INFO: Downloading 8665_2015-08-10_0001 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=4
+2025-11-27 13:55:36,644 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F14%2F650%2F086%2Fc15&fileName=14086650.C15&type=4
+2025-11-27 13:55:39,760 INFO: Downloaded file saved to ./output/documents/8665_2015-08-10_0001.pdf (size: 214296 bytes)
+2025-11-27 13:55:40,764 INFO: Downloading 2978_2015-07-22_0002 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=4
+2025-11-27 13:55:40,764 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F780%2F029%2Ft12&fileName=13029780.t12&type=4
+2025-11-27 13:58:12,070 DEBUG: HTTP session initialized with retries, headers, and cookies
+2025-11-27 13:58:12,071 INFO: Searching for decisions from 2012-10-10 up to 2015-11-24
+2025-11-27 13:58:12,904 INFO: Search request successful (status 200)
+2025-11-27 13:58:12,905 INFO: Found 3 documents in search results
+2025-11-27 13:58:12,906 INFO: Downloading 4220_2015-05-13_0001 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F200%2F042%2Fv29&fileName=12042200.V29&type=4
+2025-11-27 13:58:12,906 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F200%2F042%2Fv29&fileName=12042200.V29&type=4
+2025-11-27 13:58:15,603 INFO: Downloaded file saved to ./output/documents/4220_2015-05-13_0001.pdf (size: 518426 bytes)
+2025-11-27 13:58:16,609 INFO: Downloading 8273_2014-12-24_0002 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F730%2F082%2Fo07&fileName=13082730.O07&type=4
+2025-11-27 13:58:16,610 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F13%2F730%2F082%2Fo07&fileName=13082730.O07&type=4
+2025-11-27 13:58:17,167 INFO: Downloaded file saved to ./output/documents/8273_2014-12-24_0002.pdf (size: 288764 bytes)
+2025-11-27 13:58:18,168 INFO: Downloading 761_2012-11-29_0003 from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4
+2025-11-27 13:58:18,169 DEBUG: Starting download from https://supremedecisions.court.gov.il/Home/Download?path=EnglishVerdicts%2F12%2F610%2F007%2Ft05&fileName=12007610_t05.txt&type=4
+2025-11-27 13:58:19,683 INFO: Downloaded file saved to ./output/documents/761_2012-11-29_0003.pdf (size: 464652 bytes)
+2025-11-27 13:58:20,691 INFO: Scraping complete: 3 successful, 0 failed
