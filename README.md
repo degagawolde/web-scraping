@@ -3,7 +3,7 @@
 ## Israeli Supreme Court – Decision Scraper
 
 A Python tool that scrapes and downloads decision documents (PDF/DOCX) from the
-Israeli Supreme Court website for a **single day** using **HTTP requests only**.
+Israeli Supreme Court website using **HTTP requests only**.
 
 ---
 
